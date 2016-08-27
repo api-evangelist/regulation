@@ -1,4 +1,4 @@
-title:        Regulation
+title:        APIs & Regulation
 url:          http://regulation.apievangelist.com
 logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-logo-regulation.png
 logo_width:   80
@@ -18,7 +18,7 @@ paginate_path: "/blog/page:num"
 # Masthead title
 masthead_link: http://regulation.apievangelist.com
 masthead_font_size: 85
-masthead_title: '{"Regulation"}'
+masthead_title: '{"APIs & Regulation"}'
 
 # Feature
 feature_title: API Guide
