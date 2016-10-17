@@ -1,5 +1,61 @@
 [
 	{
+		"curated_id": "n116OiS116bTntN3DAixCpjNusFwjRJhw5i2AGGL2S116OMaTFyt3s5KtvDCd3PA7QoSORmZcWq55116yXpNnDkakeyNVA117117",
+		"item_date": "2016-10-16 00:00:00",
+		"title": "Germany says Tesla should not use Autopilot in advertising",
+		"url": "http://www.reuters.com/article/us-tesla-germany-idUSKBN12G0KS",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hffuFwih12354LY5aOgqJofDwt116NlRXxihBkHKTzZ1116QMU2vaKHNCjCJjhxV1P5nYNfa2123jnB22W8CCfNdXvHY116A117117",
+		"item_date": "2016-10-10 05:59:00",
+		"title": "Tweet Europe to push new security regulations amid IoT mess httpstco0ZtGpQsek6",
+		"url": "https://krebsonsecurity.com/2016/10/europe-to-push-new-security-rules-amid-iot-mess/",
+		"domain": "krebsonsecurity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Gi8Xa0iitcW12311630xnP43zz123CNmf8PUInv123mmpuQVKdvrTEFRazN0bEhEEoKyThX123WMYEAhiCjvC3vRaZdan5IA117117",
+		"item_date": "2016-10-11 05:00:22",
+		"title": "Using Event and Log Data to Assure Security and Compliance",
+		"url": "https://blog.logentries.com/2016/09/using-event-and-log-data-to-assure-security-and-compliance/",
+		"domain": "blog.logentries.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZgC9JbO7LdrPDK1roydZkqRhO3ctn3DVYEnqgfgdZExm4nO116Zpz2iVY0mIykIrf9mAagsb116NgTKtr0tiUE1234ww117117",
+		"item_date": "2016-10-10 00:00:00",
+		"title": "Uncle Sam to Healthcare IT Voluntary Guidelines for Open APIs Not Quite So Voluntary",
+		"url": "http://www.programmableweb.com/news/uncle-sam-to-healthcare-it-voluntary-guidelines-open-apis-not-quite-so-voluntary/analysis/2016/10/10",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JHjMr1235UlG3uthdMhBa0K1165lXUWo2t1231TseJ13JzEMmhym2LrIh7z0jqyuPW2DMq3lJr7s123dVTfbWXjXs4ASQw117117",
+		"item_date": "2016-10-10 00:00:00",
+		"title": "Using Event and Log Data to Assure Security and Compliance",
+		"url": "https://dzone.com/articles/using-event-and-log-data-to-assure-security-and-co",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RTArHg8klVVI9123R5K58QQAex2XY3ad1231sQOn2Hbk5wcu7hf7e123c1168EORf0uKu6ok9J2vcTvi6123dcjcb3sR8OJw117117",
+		"item_date": "2016-10-10 00:00:00",
+		"title": "Should the Government Be More Involved in IoT Security",
+		"url": "https://continuum.cisco.com/2016/10/10/should-the-government-get-involved-in-iot-security/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JnOjwUoF1SWNHToNrZ123yVNnWa1235LVKfISL6B1UI5YMfasd8UeMDz10KAV6HIbCeNsouFTtCCH0VUL5ndzwAVnQ117117",
+		"item_date": "2016-10-11 00:00:00",
+		"title": "As LicensePlate Tracking Increases Privacy Advocates Press for More Regulation",
+		"url": "http://cyberlaw.stanford.edu/press/license-plate-tracking-increases-privacy-advocates-press-more-regulation",
+		"domain": "cyberlaw.stanford.edu",
+		"image": ""
+	},
+	{
 		"curated_id": "eUtzyWB7R5MFUdzldQJynDABDKWIcpcfjo9x116DvmmZvHxMip9dmFUUz1J116NBdEJzDDaqFaIyWc1f116kfSf9llcg117117",
 		"item_date": "2016-10-13 00:00:00",
 		"title": "FCC to Vote on ISP Privacy Rules",
@@ -19,8 +75,8 @@
 		"curated_id": "yArs116sMUZsR49qjR0hBvgbSJcB7wTtHZtthWGNssupNczRFUBGU6b1237svOh116cQp4SZPfftbbSSQRpCTIrnksXg117117",
 		"item_date": "2016-10-14 00:00:00",
 		"title": "Digital regulation has US truck industry scrambling",
-		"url": "http://feedproxy.google.com/~r/BillingViews/~3/Vg8z7zoUEQs/",
-		"domain": "feedproxy.google.com",
+		"url": "https://disruptiveviews.com/digital-regulation-truck-industry-scrambling/",
+		"domain": "disruptiveviews.com",
 		"image": ""
 	},
 	{
@@ -43,8 +99,8 @@
 		"curated_id": "V24J8j4Wn123fno9WdqAjVPn4xODU2116Eta50QP6Y3e4gxTYdJwVf648L3pLosYwkuls5vxHq2uQUyJvKgxe2Eu2w117117",
 		"item_date": "2016-10-13 00:00:00",
 		"title": "Deere responds to US Justice Dept move to block acquisition",
-		"url": "http://feeds.reuters.com/~r/reuters/technologysectorNews/~3/5QHEGOABAfg/monsantounit-ma-deere-offer-idUSL1N1CJ27V",
-		"domain": "feeds.reuters.com",
+		"url": "http://www.reuters.com/article/us-monsantounit-m-a-deere-offer-idUSKCN12D30T",
+		"domain": "www.reuters.com",
 		"image": ""
 	},
 	{
@@ -53,6 +109,14 @@
 		"title": "The FCC Fines Comcast 23M Over Billing PracticesBut Is That Enough",
 		"url": "https://www.wired.com/2016/10/fcc-fines-comcast-2-3m-billing-practices-enough/",
 		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OC4t6TTHycq2y41V4sPpLWJ116BJylUMNtSBw0ymjwQytZueuWbKDjWsGI3aYj3CmDgcLHrWIvCnO45vdQbaMmZw117117",
+		"item_date": "2016-10-11 00:00:00",
+		"title": "Comcast hit with largest civil penalty ever issued over shady billing practices",
+		"url": "http://thenextweb.com/insider/2016/10/11/comcast-hit-with-largest-civil-penalty-ever-issued-over-shady-billing-practices/",
+		"domain": "thenextweb.com",
 		"image": ""
 	},
 	{
