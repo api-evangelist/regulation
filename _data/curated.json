@@ -1,10 +1,114 @@
 [
 	{
+		"curated_id": "jHEDm9hhwOyVhNeLsTb2VFiQsIweYWFdSHdM123VX1rt2ZFKTuit57gJf19p9dIWaIs6AdIqTfTS0ZRZCc4qrazA117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "FTC Files Complaint Against DLink Over Router Camera Security Issues",
+		"url": "http://www.crn.com/news/internet-of-things/300083325/ftc-files-complaint-against-d-link-over-router-camera-security-issues.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IUPMq70UD7B59bEMbOgbEb9N116m1161123BBCmZc7d116Vshsf6116TvJMXhqY720Y6kOgnCuAxSD6Au5f116Qe4nAYtShu3Q117117",
+		"item_date": "2017-01-06 00:00:00",
+		"title": "FTC Charges DLink With Unsecure Routers And IP Cameras",
+		"url": "http://www.darkreading.com/iot/ftc-charges-d-link-with-unsecure-routers-and-ip-cameras-/d/d-id/1327844",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tsolfE1kqRy116EODLpbJ7yiBPRv2X0MDGr123x5uRyeycAnmXg3k4CiFriq5xucDujWwZ40P9dLGa8wfs7yAa1ykA117117",
+		"item_date": "2017-01-06 00:00:00",
+		"title": "DLink Calls The FTCs Router And IP Camera Security Allegations Baseless",
+		"url": "http://www.crn.com/news/networking/300083333/d-link-calls-the-ftcs-router-and-ip-camera-security-allegations-baseless.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "s6zafVi4TER6tlaOuv9t0xx9F5h3KGlyMlUzUS1HCvur5yZd3k9eJzls235ysSJTzRyO116bScSw7123P9kTUj2y123g117117",
+		"item_date": "2017-01-06 00:00:00",
+		"title": "DHS designates election systems as 039critical infrastructure039",
+		"url": "http://thehill.com/policy/national-security/313132-dhs-designates-election-systems-as-critical-infrastructuren",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9hBGOzEJ3UXu9cjYMwQqABr0wnSffIazZOXPPFE1mD5Eq99M21kNEXadjVs0VNNYWT0WAPvI87iZHNGAD1233gqg117117",
+		"item_date": "2017-01-07 00:00:00",
+		"title": "The FTC has sued DLink over unsecure routers and webcams",
+		"url": "http://www.theverge.com/2017/1/7/14199232/ftc-sued-d-link-unsecure-routers-webcams-cybersecurity",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vWOsA123EHlDonhK123nDMAL9NYm3ieAh8VeeG9vL1bKshe7GQA123QDETKSPImsMEhnY1QljOPzaIqK8EGbevsZeB2g117117",
+		"item_date": "2017-01-06 00:00:00",
+		"title": "FTC Sues DLink Over Insecure Routers Cameras",
+		"url": "http://www.pcmag.com/news/350850/ftc-sues-d-link-over-insecure-routers-cameras?source=SectionArticles",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
 		"curated_id": "1UXCpB123eFFAl9CtMW123gYGfMJZyWsF8116faYyB123CasGKBQFXD116R116yMFi2A116cjTnrRA38UoxJp53ibVHZx03YnBYQ117117",
 		"item_date": "2017-01-06 00:00:00",
 		"title": "Notes about the FTC action against DLink",
 		"url": "http://blog.erratasec.com/2017/01/notes-about-ftc-action-against-d-link.html",
 		"domain": "blog.erratasec.com",
+		"image": ""
+	},
+	{
+		"curated_id": "iYnEuguJSRKvqZyP123AzoVJKCL0123dtwG15123RVDXUk3d2RQlCKpZDT116u4Xhq4fEtwwAUPJwXmg1QtuH3o4Q116vLFQ117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "Penetration Testing and the Law",
+		"url": "http://resources.infosecinstitute.com/penetration-testing-and-the-law/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123Mk0OdoA352vsSQBDowY6HAMcJ0KHy2wVEXL7fDF7XlAZgA7violdlrRa2vW9X123UCXE51qFOWhrgwyf3Z4EkrA117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "Department of Labor sues Google over wage data",
+		"url": "http://www.pcworld.com/article/3154776/government/department-of-labor-sues-google-over-wage-data.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XgLcLaVOUdQ6ELPZdHW50WUrlHEGjNm8116Q0SoMULtrI7yNADScTkZCTw7eoKzY3BpOo09SWbYpzxCUQAjFHYeQ117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "Feds allege security flaws in DLink routers cameras",
+		"url": "http://thehill.com/policy/cybersecurity/312897-ftc-files-complaint-against-d-link-routers-camerasn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BJhQYnghZ116Z6wRgNZH0v7Kyw9zaP9uSpRynogUJVUMOloif9TnuBgouXlcJOoFJ1ScbQRBXC4G7RqLczZLIEBg117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "The US Department of Labor is suing Google for compensation data",
+		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/VmzyxnGDmUI/",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uzEbnaA380quWSgD3u2mPhrm0moyoRK15Oy1236ZGeceQ3H765Z3OrA4f116O7TGjeAjkOPManRhdk9YanJFBSjgUg117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "After the Uber standoff California lawmakers want to hit rogue selfdriving cars with 25000 a day fines",
+		"url": "http://feedproxy.google.com/~r/typepad/alleyinsider/silicon_alley_insider/~3/WJkj3HH2bHw/california-bill-self-driving-violators-uber-punishable-fine-2017-1",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "h76OIqip1237zQrqFbODYW5K9Q4116WAy0y1xUb8PbiSBMrgUKdE24xNufsnwnRehX51163MfbRggjMqRWCeRPAaWOeA117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "Uberinspired bill would crack down on illegal selfdriving cars in California",
+		"url": "http://www.siliconbeat.com/2017/01/05/uber-inspired-bill-crack-illegal-self-driving-cars-california/",
+		"domain": "www.siliconbeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IUp1DnEp35edClTTFNssYvX123s1oXG123hBdrql9lKr7ZR4yuQFIOWEvT7SWAN2z123qOCuJ1aoIqqCsT9116vfjzMveg117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "UPDATE 1US sues DLink alleges lax security in routers cameras",
+		"url": "http://feeds.reuters.com/~r/reuters/technologysectorNews/~3/3mEGJyFk_P8/d-link-ftc-idUSL1N1EV1VA",
+		"domain": "feeds.reuters.com",
 		"image": ""
 	},
 	{
