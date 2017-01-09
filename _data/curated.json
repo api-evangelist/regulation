@@ -43,7 +43,7 @@
 		"curated_id": "vWOsA123EHlDonhK123nDMAL9NYm3ieAh8VeeG9vL1bKshe7GQA123QDETKSPImsMEhnY1QljOPzaIqK8EGbevsZeB2g117117",
 		"item_date": "2017-01-06 00:00:00",
 		"title": "FTC Sues DLink Over Insecure Routers Cameras",
-		"url": "http://www.pcmag.com/news/350850/ftc-sues-d-link-over-insecure-routers-cameras?source=SectionArticles",
+		"url": "http://www.pcmag.com/news/350850/ftc-sues-d-link-over-insecure-routers-cameras",
 		"domain": "www.pcmag.com",
 		"image": ""
 	},
@@ -56,11 +56,51 @@
 		"image": ""
 	},
 	{
+		"curated_id": "7FZdXbb3AoF6D0BDFzo6Q66cKJbjR9qCbFH4oUxkqqd8ZUvgSdMl0Hb5v5BvMbuy1116cNHA90cle3gnRx0Y3uLw117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "FTC Launches Contest For Technology Tool To Protect Home IoT Devices",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/ftc-launches-contest-for-technology-tool-to-protect-home-iot-devices/d/d-id/1327831",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
 		"curated_id": "iYnEuguJSRKvqZyP123AzoVJKCL0123dtwG15123RVDXUk3d2RQlCKpZDT116u4Xhq4fEtwwAUPJwXmg1QtuH3o4Q116vLFQ117117",
 		"item_date": "2017-01-05 00:00:00",
 		"title": "Penetration Testing and the Law",
 		"url": "http://resources.infosecinstitute.com/penetration-testing-and-the-law/",
 		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jF8jPsKrrjkM6jWUHSdfwW7zX1HunKph3f61Zsydxs116qlQiCh8QC1162Mh0DrTt42nKJ239OD6Sujh5PbrwVMOIw117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "US Labor department sues Google for compensation data",
+		"url": "http://www.reuters.com/article/us-alphabet-lawsuit-idUSKBN14O2D9",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wDdlNIzVzIdwdSoH99uK3SWDWovx7hsax116d7xiNqSN7ISQv1OrI5G4Xy3HQCPlBnd116P116FB123yBfhFS116M9oQFfXQ117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "The FTCs Internet of Things IoT Challenge",
+		"url": "https://krebsonsecurity.com/2017/01/the-ftcs-internet-of-things-iot-challenge/",
+		"domain": "krebsonsecurity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kG111123A3MheAtks3FlRJJaVZ3ACj7iO123ktjO5WQvszEDYC1UCPNP1M6RELLCA0sEGVk6F6lZ116fz1syB9gTtCLA117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "Uber drivers are employees eligible for company social security contributions",
+		"url": "http://www.reuters.com/article/us-swiss-uber-idUSKBN14P0J9",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YbenQ1164NF2BYzGKpunCtnIbnGLIZWGXHpQh07116qplkgm8f6Kz8iLSG116DMz83116K3XPbC1NIv5cvievJyGtHE2Zw117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "FTC launches 25K internetofthings security challenge",
+		"url": "http://thehill.com/policy/cybersecurity/312659-ftc-launches-25-thousand-internet-of-things-security-challengen",
+		"domain": "thehill.com",
 		"image": ""
 	},
 	{
@@ -91,8 +131,8 @@
 		"curated_id": "uzEbnaA380quWSgD3u2mPhrm0moyoRK15Oy1236ZGeceQ3H765Z3OrA4f116O7TGjeAjkOPManRhdk9YanJFBSjgUg117117",
 		"item_date": "2017-01-05 00:00:00",
 		"title": "After the Uber standoff California lawmakers want to hit rogue selfdriving cars with 25000 a day fines",
-		"url": "http://feedproxy.google.com/~r/typepad/alleyinsider/silicon_alley_insider/~3/WJkj3HH2bHw/california-bill-self-driving-violators-uber-punishable-fine-2017-1",
-		"domain": "feedproxy.google.com",
+		"url": "http://www.businessinsider.com/california-bill-self-driving-violators-uber-punishable-fine-2017-1",
+		"domain": "www.businessinsider.com",
 		"image": ""
 	},
 	{
@@ -107,8 +147,24 @@
 		"curated_id": "IUp1DnEp35edClTTFNssYvX123s1oXG123hBdrql9lKr7ZR4yuQFIOWEvT7SWAN2z123qOCuJ1aoIqqCsT9116vfjzMveg117117",
 		"item_date": "2017-01-05 00:00:00",
 		"title": "UPDATE 1US sues DLink alleges lax security in routers cameras",
-		"url": "http://feeds.reuters.com/~r/reuters/technologysectorNews/~3/3mEGJyFk_P8/d-link-ftc-idUSL1N1EV1VA",
-		"domain": "feeds.reuters.com",
+		"url": "http://www.reuters.com/article/uk-d-link-ftc-idUSKBN14P2ME",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4H4Z2qHHjCsbqTI78vqbQLU4I3ULOI54116g5sU123VYUKFSVrYYTD6jkqmKf6oT0116GZ9zhwPJcBjnEf7123C8Qr1hSA117117",
+		"item_date": "2017-01-03 00:00:00",
+		"title": "US fines TransUnion Equifax for deceit over credit scores",
+		"url": "http://www.reuters.com/article/us-usa-cfpb-transunion-equifax-idUSKBN14N1T5",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0k123qgwPycFRt9SZpqrrQ4dt9lElK3OYs430TlddwgvpaKbKIT5N0yT3o7PQknq2KYqjEYeJRJierwfjY116IJTtA117117",
+		"item_date": "2017-01-03 11:40:37",
+		"title": "Why FDA Is Making Data Extracted from Reports of Adverse Events for Foods and Cosmetics Available to the Public",
+		"url": "https://www.healthdata.gov/blog/why-fda-making-data-extracted-reports-adverse-events-foods-and-cosmetics-available-public",
+		"domain": "www.healthdata.gov",
 		"image": ""
 	},
 	{
