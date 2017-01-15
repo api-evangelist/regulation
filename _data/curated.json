@@ -1,5 +1,85 @@
 [
 	{
+		"curated_id": "MV123G4aKBmve4k4Wn2tmuqkXWvSfyq10OGkI4miFD116QDOV9Hn1233337OKorcD4rSCXHmQH1xJWfFAyOVi7DSlFVg117117",
+		"item_date": "2017-01-14 00:00:00",
+		"title": "A Chinese regulator is ordering app stores to register with the government",
+		"url": "http://www.theverge.com/2017/1/14/14273778/china-app-stores-register-government",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hNL3Hi8ENrBpWeGICJB9ol1uouBv116ZUxHLzzA5k1s1FKpLRnxg123qiiywxclOBH3unAqyh1JIAzMsk6zaVlVLUQ117117",
+		"item_date": "2017-01-13 11:49:12",
+		"title": "Cloudflare and CREDO are still gagged from talking about national security letters",
+		"url": "https://techcrunch.com/2017/01/13/cloudflare-and-credo-are-still-gagged-from-talking-about-national-security-letters/?ncid=rss",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "50uCVMTywDoZzPqA0123ox0USa5Y9jZWzaYPnSox3dkgND116C4rClR1NohglhQzA3nBx5cXJzq7Esr6BFML4r6Ovw117117",
+		"item_date": "2017-01-12 08:47:36",
+		"title": "Tweet New Cybersecurity Regulation for NY Financial Services deadline March 1 httpstcoId2VxCgw0e httpstcoSQ7m9Kzl7Z",
+		"url": "https://twitter.com/duosec/statuses/819586636992442368",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3chPRINjiu0EKvX8xrcn3KFRd1Qpkkd5tVp3smjwUszGA274wKkXksTEVQKqliZSrY9YcsDSKBkU12InyUmCIA117117",
+		"item_date": "2017-01-12 00:00:00",
+		"title": "EU Dissatisfied With US Clarification On Yahoo Secret Email Scan",
+		"url": "http://www.darkreading.com/eu-dissatisfied-with-us-clarification-on-yahoo-secret-email-scan/d/d-id/1327878?_mc=RSS_DR_EDT",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7ABeO24iJTxcpH922cQFnM11661wbr3F53rZuq8pHPsk64KOzrv7H1238RbswRiWJard8sD6UajNVkKDsUB1232AtSqg117117",
+		"item_date": "2017-01-12 00:00:00",
+		"title": "ATT Verizon likely violating net neutrality FCC says",
+		"url": "http://www.siliconbeat.com/2017/01/12/att-verizon-likely-violating-net-neutrality-fcc-says/",
+		"domain": "www.siliconbeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YENtu123KahSIoQgIvmexEwbbF2cU8A123HiBEX116qASqW9w35J123P5jUT17WLx0VbbDl6AxV6Ocyx116V7a0Xwn123kgLhQ117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "Outgoing FCC chief Tom Wheeler offers final defense of net neutrality",
+		"url": "http://www.theverge.com/2017/1/13/14266168/tom-wheeler-final-speech-net-neutrality-defense",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HVEbu1z116XF123d5123c9vne1169BdcHcDNy3IukaD116ea116GNndGlPtkHKnU116123tJ116eMviLy66sz06mYjxILI3RJoZeqVvg117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "EFF to Court Dont Let California Gag IMDb",
+		"url": "https://www.eff.org/deeplinks/2017/01/eff-dont-gag-imdb",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "Wig73qTGN123XUC116YCVLXA4ghFAcmy135FXLZaaJcaDg342CspfbodIAbY1ArXe116AO34BiNBAxJf906S1235pT123SSA117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Cloudflare explains how FBI gag order impacted business",
+		"url": "https://techcrunch.com/2017/01/11/cloudflare-explains-how-fbi-gag-order-impacted-business/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "62BNWgHObuBx0vNuJYztkVupQ9MZR123vsdB7jaVJF9DYtIatSVuuS4r0TkB23Umjo0116HgamnnRxSVKcaJ1JR3PA117117",
+		"item_date": "2017-01-09 00:00:00",
+		"title": "Why Log Data is Important for Compliance",
+		"url": "https://dzone.com/articles/why-log-data-is-important-for-compliance?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1230QWKNHnsi2ZawoqmZOTYqbsZhiQGLr9N6yRLqqUfhnu3116CGYmec2123xzZ7Uxi70LtbHLjFIMbx123Ce54hKGxM123A117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Uber signs deal with Dubai regulator after pricing rows",
+		"url": "http://www.reuters.com/article/us-emirates-uber-idUSKBN14V1GH",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
 		"curated_id": "jHEDm9hhwOyVhNeLsTb2VFiQsIweYWFdSHdM123VX1rt2ZFKTuit57gJf19p9dIWaIs6AdIqTfTS0ZRZCc4qrazA117117",
 		"item_date": "2017-01-05 00:00:00",
 		"title": "FTC Files Complaint Against DLink Over Router Camera Security Issues",
