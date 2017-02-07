@@ -19,8 +19,8 @@
 		"curated_id": "iMYeK5ZzN5qtKPzM116rYP60zowhjKN4YcImcd1kX518s1pekT3yXLbs2HvbG8pL6Uos01TrX0zIkbLaDzGOaVbw117117",
 		"item_date": "2017-02-03 00:00:00",
 		"title": "US telecommunications regulator closes sponsored data probe",
-		"url": "http://feeds.reuters.com/~r/reuters/technologyNews/~3/T-nYUIPOIOA/us-usa-fcc-data-idUSKBN15I2UA",
-		"domain": "feeds.reuters.com",
+		"url": "http://www.reuters.com/article/us-usa-fcc-data-idUSKBN15I2UA",
+		"domain": "www.reuters.com",
 		"image": ""
 	},
 	{
@@ -48,6 +48,14 @@
 		"image": ""
 	},
 	{
+		"curated_id": "xE9123yIs123lZsiYPZpTbHzrVMBhuUYO3kClNFvgDuiI4P00TaA58Np9OcNzU6qqT4fi5GspiBJVDwl4HLdWIhQ8w117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "Trumps FCC May Let ISPs Sell Your Private Data Without Your Consent",
+		"url": "https://motherboard.vice.com/en_us/article/trumps-fcc-may-let-isps-sell-your-private-data-without-your-consent",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
 		"curated_id": "cpsvv123mOJkcTMK7qpvOz3fQrGsbXyNr0zo116116ZR9HgBS1116LHEDcCj123D1164FlOBY2116gQbLmHKPA1TUPCsI3K7osSw117117",
 		"item_date": "2017-02-01 00:00:00",
 		"title": "New York sues Charter over slow internet speeds",
@@ -61,6 +69,22 @@
 		"title": "How an Old Hacking Law Hampers the Fight Against Online Discrimination",
 		"url": "http://www.newyorker.com/business/currency/how-an-old-hacking-law-hampers-the-fight-against-online-discrimination",
 		"domain": "www.newyorker.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xblwxcvVB1f0lW123lB4mjIBcFq116lSawb12369xSw7WgjR116xbQt116CdTH2Hp69kmUDq5QAla116IP08mhgCK1164KrXs65A117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "FBI Continues To Demand Far More Info Than Its Supposed To With Its National Security Letters",
+		"url": "https://www.techdirt.com/articles/20170130/11251636590/fbi-continues-to-demand-far-more-info-than-supposed-to-with-national-security-letters.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1tf2hdk3BFDcVzAAofYKAZytiq76LZxHwSRBjkhVaWKk5cf2imFTMDH116g116f7EZc116W9im123OlTOMnTdXV5eigNEw117117",
+		"item_date": "2017-01-30 05:16:25",
+		"title": "NY Senate bill to collect data on foreignborn college students",
+		"url": "http://www.nydailynews.com/news/politics/n-y-senate-bill-collect-data-foreign-born-college-students-article-1.2959107",
+		"domain": "www.nydailynews.com",
 		"image": ""
 	},
 	{
