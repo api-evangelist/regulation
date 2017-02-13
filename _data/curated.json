@@ -1,10 +1,106 @@
 [
 	{
+		"curated_id": "WEws1166ZShax5kHoHO8pYNQLXJsgTPIfff9sEM3PMZ116l1235ixtvx1xczf7KOA9TWfjAjI2NyCD8rxPZTxok7116h1A117117",
+		"item_date": "2017-02-06 00:00:00",
+		"title": "US court orders Google to hand over data on foreign servers",
+		"url": "http://thehill.com/policy/cybersecurity/318056-in-change-from-microsoft-case-google-ordered-to-give-feds-data-onn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hGWj27UWYCZAwqzpKfAioIoj123cH09ht4RbkTAR3CUW7N8mvPlJXSke5cDiQKFgThM5X4S6fLWAOPY44JWV7123lw117117",
+		"item_date": "2017-02-06 00:00:00",
+		"title": "Violating Terms of Use Isnt a Crime EFF Tells CourtAgain",
+		"url": "https://www.eff.org/deeplinks/2017/02/violating-terms-use-isnt-crime-eff-tells-court-again",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "bdganbrjFboYMJBPjbE3123YrQHd5ARku6irCzRU7t29lLQGN7mm7rSqZseTx116123zO1eTFoiVo123U123mmwut5Tsm07Q117117",
+		"item_date": "2017-02-10 00:00:00",
+		"title": "Article QA with Immuta on the Implications of EUs General Data Protection Regulation GDPR",
+		"url": "http://www.infoq.com/articles/immuta-gdpr-implications?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
 		"curated_id": "pf2vJ123YH2YPQgKBoHSWKPUhdIG4L116kB3KR123HtmOYdKDds2116ajjZ123mTgpyytBd4USIVcKCmdOR00Gt6vq5ZLLJA117117",
 		"item_date": "2017-02-10 00:00:00",
 		"title": "Cyberbullying Bill Would Grant Power To Strip Online Anonymity Before Legal Proceedings Begin",
 		"url": "https://www.techdirt.com/articles/20170205/09085136636/cyberbullying-bill-would-grant-power-to-strip-online-anonymity-before-legal-proceedings-begin.shtml",
 		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "aR8uqpQh5itLe4F9hpk6116NCVVt1CnB60O7EiuNXFc1hWyB9VhD0csyJDR1uBHWN8m3kvxlDdb5y1dW7bQ2Hmpw117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "The state of EUUS data transfer in a tweet",
+		"url": "https://www.accessnow.org/state-eu-u-s-data-transfer-tweet/",
+		"domain": "www.accessnow.org",
+		"image": ""
+	},
+	{
+		"curated_id": "RutnkmNI781Nfw8Pfcvr9THimawUNiOXs4B20Xyl1mOvltx1vlT2Kz123BQuq2L45eIUv123m6fSM0zflkDeNuUZmg117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "End the Privacy Shield Access Now urges the European Commission to suspend Privacy Shield due to changes in US policies",
+		"url": "https://www.accessnow.org/end-privacy-shield-access-now-urges-european-commission-suspend-privacy-shield-due-changes-us-policies/",
+		"domain": "www.accessnow.org",
+		"image": ""
+	},
+	{
+		"curated_id": "kyJqbdVO116OL42DiXx5K116F3x3o123Nu6HCsfujCORsoUZNHc116Fdc7qIgKepZg6d77BOjMlgV833DeDDO0aEFnKLZA117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "GOP wants to get rid of overdraft fee limits",
+		"url": "http://boingboing.net/2017/02/09/gop-wants-to-get-rid-of-overdr.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "SjQ5IIDaBcq8I2Z116fKiESUL116WgujIJXdmRO5hZ116GXbz81M8yb1PsMbbS116myNpri2WOcY33DSQ5tGLKoj116Om86Q117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "FCC Abandons ZeroRating Investigation and Moves Backward on Net Neutrality",
+		"url": "https://www.eff.org/deeplinks/2017/02/fcc-abandons-zero-rating-investigation-and-moves-backward-net-neutrality",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "QkTm8Ry3f123FadywkHH7vRSwrf2L0MhPly7YrnmFUnXmoSktzPZgtzI6n1Yz2PJDCxEWbUQPdV6sgd3Ns5n7Dkw117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "Healthy Domains Initiative Isnt Healthy for the Internet",
+		"url": "https://www.eff.org/deeplinks/2017/02/healthy-domains-initiative-censorship-through-shadow-regulation",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "wc7o123MyVNiQjxB1OSnjidfRkmxn86gJeToqffP2AqsvaHKhX5ADbT49c123UYaexFNmwHnkZa1yhOpiZX34wJthg117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "EU pressured to suspend data deal with US",
+		"url": "http://thehill.com/policy/cybersecurity/318506-eu-pressured-to-suspend-data-deal-with-usn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4g4IBgLaLv7b5vfU8ZmXYdz56hwd8yKoEGFp2wAigSq7bmbu0MAH8v7KXtRtQHdpfP2gW29Ic11KRiWOpgZrqw117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "Republicans Are Moving to Scrap Rules That Limit Overdraft Fees",
+		"url": "https://www.buzzfeed.com/matthewzeitlin/republicans-are-moving-to-scrap-rules-on-overdraft-charges",
+		"domain": "www.buzzfeed.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xDI5H0ndqRvM5Ur123s71dBlDsirCxrZNZM9gx5dqVzCx62cVidEGGXnw2P7fYV1rtc1167c19OL2mfnCZwZU8IWmw117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "Yahoo hit with databreach classaction lawsuit claiming creditcard details stolen",
+		"url": "http://www.siliconbeat.com/2017/02/08/yahoo-hit-with-data-theft-class-action-lawsuit-claiming-credit-card-details-stolen/",
+		"domain": "www.siliconbeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5U51123qQ6Lg1BZodmmvUmSf9Dy2HHQ7wGYZJ116AOoVZOkvHVHR5huyFHFMlA83jRfHSNjKkfUPP116116AzsJFBIMFCw117117",
+		"item_date": "2017-02-06 00:00:00",
+		"title": "FCC kills investigation into datafree plans",
+		"url": "http://www.siliconbeat.com/2017/02/06/fcc-kills-investigation-data-free-plans/",
+		"domain": "www.siliconbeat.com",
 		"image": ""
 	},
 	{
