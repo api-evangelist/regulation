@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "hi6k8dC6WsZ7d1d5IbCOIfh2KEnjezgrUevGnONCPLcCQp6xsVYUFUc116pTUGHd29oDnyAqWwXoYnQvxRw5mnJg117117",
+		"item_date": "2017-02-24 00:00:00",
+		"title": "It looks like the FCC wants to roll back rules thatd force internet providers to get your consent before selling your data",
+		"url": "http://www.businessinsider.com/fcc-ajit-pai-privacy-rules-isp-statement-2017-2",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "s1161oTWfjCU5uzufVnceklNxWTtFXd1232SmKXGiLFsAg8DMkLF4v7jHZrcfmX0w2azpn139wBsqaOPNb5OVlCkDQ117117",
+		"item_date": "2017-02-20 00:00:00",
+		"title": "German Government Classifies Doll as Illegal Spyware",
+		"url": "https://www.schneier.com/blog/archives/2017/02/german_governme.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
 		"curated_id": "96L0Xu9pkuX598LzFbRLbYdA9qh5xyMwhxhEG0FR4ev8SBAqarJM22G0lCAYMMTGaVEQEelLD0123wwpAaX7Iy8w117117",
 		"item_date": "2017-02-24 00:00:00",
 		"title": "FCC Chairman Pai rushes to block new privacy rules",
@@ -19,8 +35,8 @@
 		"curated_id": "116x3yoPvj1yImDmANEY5PAWiN116tzeKZ8yljJ2nFYsmRdoHcMBwDowICnsdy1bmbUNEm3RO3McZ1yJq7k3NruABg117117",
 		"item_date": "2017-02-23 00:00:00",
 		"title": "Amazon cites First Amendment protection for Alexa in Arkansas murder case",
-		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/GQhuqErVMk8/",
-		"domain": "feedproxy.google.com",
+		"url": "https://techcrunch.com/2017/02/23/alexa-free-speech/",
+		"domain": "techcrunch.com",
 		"image": ""
 	},
 	{
@@ -43,7 +59,7 @@
 		"curated_id": "eGtzsFHk116TGNDU7uxOz1UgMVdRuq55t4mdYx123iYaZoF11DjAsLf116ZIcmZ5HWRm2PuRj8XTfYPPuT0F4GrmuiOQ117117",
 		"item_date": "2017-02-23 00:00:00",
 		"title": "Alphabet Subsidiary Waymo Files Suit Against Uber Accuses Former Employee With Theft of Trade Secrets",
-		"url": "https://medium.com/@waymo/a-note-on-our-lawsuit-against-otto-and-uber-86f4f98902a1",
+		"url": "https://medium.com/waymo/a-note-on-our-lawsuit-against-otto-and-uber-86f4f98902a1",
 		"domain": "medium.com",
 		"image": ""
 	},
@@ -53,6 +69,22 @@
 		"title": "Amazon resorts to First Amendment to protect Alexa recordings in murder trial",
 		"url": "https://thenextweb.com/apps/2017/02/24/amazon-alexa-murder-trial/",
 		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "615cG7nPKYKkRrtk3zb9hGyZv6KXV5UcjZ0EcSWkpbKtFsYLFenSbDlUR116UjrloRizU0F1Zt5kVW3jQnfmO123xQ117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "Selfdriving cars must be covered by insurance says UK bill",
+		"url": "http://www.bbc.co.uk/news/technology-39055395",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "qcEncW2FGeU8NS116NcySopDDfjlpe8yx4XNQ1239AaV3YeqLuX0t0OqIJqMwR7xJYcHLx6KE4PB3KDicTmrLTPH9Q117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "Federal Judge Denies Warrant to Fingerprint Unlock Random Apple Devices in Illinois Building",
+		"url": "https://motherboard.vice.com/en_us/article/federal-judge-denies-warrant-to-fingerprint-unlock-random-apple-devices-in-illinois-building",
+		"domain": "motherboard.vice.com",
 		"image": ""
 	},
 	{
