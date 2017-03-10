@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "AAU5V5KvHNglDXTu1233dxnAle07f1pwgsu123CEG4xXz4J0116r2kEGA1nRN12116JKf12YxIwvW93By7UxpGXpJj4riQ117117",
+		"item_date": "2017-03-08 00:00:00",
+		"title": "Amazon agrees to hand over Echo records for murder case",
+		"url": "http://www.zdnet.com/article/amazon-agrees-to-hand-over-alexa-records-for-murder-case/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
 		"curated_id": "IdtpfqpmtBh1YlcnRC123EbRpovhj0HIYwChZbERJ60lFe7Bfd4SJMNu8nw0yL1239IubgycoLqlK4a123gZ116OA135116Q117117",
 		"item_date": "2017-03-04 19:06:12",
 		"title": "Watchdog to launch inquiry into misuse of data in politics",
@@ -43,7 +51,7 @@
 		"curated_id": "qVOOrfrr5svxMtyR5EB1DpuZQ3P123nGs116SKjLniX3PAZe8zx8dq116eL75rl5PiLOrTfryNBVLCAZGiFTU116WrvJGg117117",
 		"item_date": "2017-03-01 00:00:00",
 		"title": "FCC in Potential Sign of the Future Halts New Data Security Rules",
-		"url": "http://www.nytimes.com/2017/03/01/technology/fcc-data-security-rules.html?partner=rss&emc=rss",
+		"url": "https://www.nytimes.com/2017/03/01/technology/fcc-data-security-rules.html",
 		"domain": "www.nytimes.com",
 		"image": ""
 	},
