@@ -1,10 +1,42 @@
 [
 	{
+		"curated_id": "hoihTjbFF7ZwovDMRKOZwZkn0z116iZYs8Prw8OmVCM6iZSF6XiosRa0SXfEJ6123KQzpcd3klvru123gPMiA4IFZYLQ117117",
+		"item_date": "2017-05-01 14:01:04",
+		"title": "Roundup of AWS HIPAA Eligible Service Announcements",
+		"url": "https://aws.amazon.com/blogs/aws/roundup-of-aws-hipaa-eligible-service-announcements/?sc_channel=sm&sc_campaign=launch_SQS_2a994ba2&sc_publisher=tw_go&sc_content=HIPAA_eligibility_for_SQS_launch&sc_geo=global&sc_outcome=launches&adbsc=social_launches_20170501_72007226&adbid=859150703117312000&adbpl=tw&adbpr=66780587",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
 		"curated_id": "123HxKNDtMku0H7CVRCCqB59ujVTRBl13pSO36OWme0M15KOG73yQWyyDV9BWrHQJO2Ue4vnMJI123KF5c5u3W5ARg117117",
 		"item_date": "2017-05-05 07:47:12",
 		"title": "Regulating the internet giants The worlds most valuable resource is no longer oil but data",
 		"url": "http://www.economist.com/news/leaders/21721656-data-economy-demands-new-approach-antitrust-rules-worlds-most-valuable-resource",
 		"domain": "www.economist.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PuAaiPyuxEQJv5PcU29BEfxHWyWjirgZdCBLbNo1UtdsplvwyoIqumJVOG82Gi5aAlpAXBF7m2CA116jPUbf123iVA117117",
+		"item_date": "2017-05-01 00:00:00",
+		"title": "Roundup of AWS HIPAA Eligible Service Announcements",
+		"url": "https://aws.amazon.com/blogs/aws/roundup-of-aws-hipaa-eligible-service-announcements/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lDPgXDgmnvAzvMipv123d123VOXC6xbojnMooQW58SpM123Re3UrPOqUFH8bH116vt116rAgW123GhX1Sc8FsRbK8dAKzoPrNg117117",
+		"item_date": "2017-05-04 00:00:00",
+		"title": "Maine The Latest State To Try And Let Giant Broadband Providers Write Shitty Protectionist State Law",
+		"url": "https://www.techdirt.com/articles/20170503/06115337293/maine-latest-state-to-try-let-giant-broadband-providers-write-shitty-protectionist-state-law.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YksnTQ1tuKpFTnG11163mN5XNhm6HlW7mSZR4WtM116Tiss21tdU2pXmWmfmzTm3n12331Jz4v8Am123116fAxM3Et0zziVA117117",
+		"item_date": "2017-05-04 00:00:00",
+		"title": "Actually Congress Did Undermine Our Internet Privacy RIghts",
+		"url": "https://www.eff.org/deeplinks/2017/05/congress-repealing-our-internet-privacy-rights-meant-congress-repealed-internet",
+		"domain": "www.eff.org",
 		"image": ""
 	},
 	{
@@ -16,11 +48,35 @@
 		"image": ""
 	},
 	{
+		"curated_id": "BIApnO2K6fYTcyrB5AhFxl5ZUMUB5FKVhdOwwxB2tdFlRuCy0MJg22bI0PcrR116dQ5oMfm7c123sREb8HYCC1E123RQ117117",
+		"item_date": "2017-05-04 00:00:00",
+		"title": "Uber is under criminal investigation for building software to avoid regulators",
+		"url": "https://www.theverge.com/2017/5/4/15551972/uber-greyball-justice-department-criminal-investigation-probe",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "sGgGTGBQI9ZeKi181j9JlCBg123WBvmBDq6EGsz116ObUYkZF7TxJcrO123mtlMRMIuSUZJTP1116PR123GbeEI2O5t2VqTQ117117",
+		"item_date": "2017-05-04 00:00:00",
+		"title": "Ted Cruz Doubles Down On Being Wrong Pushes Yet Another Net Neutrality Killing Bill",
+		"url": "https://www.techdirt.com/blog/netneutrality/articles/20170503/08475137294/ted-cruz-doubles-down-being-wrong-pushes-yet-another-net-neutrality-killing-bill.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
 		"curated_id": "9Q9Y3wQ5XPMI40c72b0u72JYVLE9zzX25RkVKuJ8JCJNnrTNoP5dZWsDYdFsByjtNEwZAjnYyDQd6HNGtr2qJw117117",
 		"item_date": "2017-05-05 00:00:00",
 		"title": "Uber faces criminal probe over controversial Greyball software",
 		"url": "http://www.siliconbeat.com/2017/05/05/uber-faces-criminal-probe-controversial-greyball-software/",
 		"domain": "www.siliconbeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XNjf2lKVQw82LKfvtpgAphR6ytmfbBcp2ICv9gTACog3GI19cmmgedWtB2OnbtC1CLgvSeHQrK2v36Cywp4YTg117117",
+		"item_date": "2017-05-05 00:00:00",
+		"title": "UK seeks end to endtoend encryption",
+		"url": "http://www.pcworld.com/article/3194910/encryption/uk-seeks-end-to-end-to-end-encryption.html#tk.rss_all",
+		"domain": "www.pcworld.com",
 		"image": ""
 	},
 	{
@@ -52,6 +108,46 @@
 		"item_date": "2017-05-05 00:00:00",
 		"title": "Miami Judge Says Compelling Password Production Isnt A Fifth Amendment Issue",
 		"url": "https://www.techdirt.com/articles/20170503/15582137298/miami-judge-says-compelling-password-production-isnt-fifth-amendment-issue.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HVmASpBUlE2qkTCLzVxm7nv6BjW0nvc6vfuFTP4oeorhBAfKV6BFB1cVA2eY3v6he0gBxO5QFliu86fJKQE1tw117117",
+		"item_date": "2017-05-04 23:21:02",
+		"title": "Justice Department opens criminal probe into Uber",
+		"url": "https://www.washingtonpost.com/news/the-switch/wp/2017/05/04/justice-department-opens-criminal-probe-into-uber/",
+		"domain": "www.washingtonpost.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123Heu4vPCZIE116lbtRjvE02ZiZGvvczPafe6y9TiH3OsxXMRZ8XJI4dpZf5liBk8je8YtL4yEcc0r082ET123ei4JQ117117",
+		"item_date": "2017-05-03 00:00:00",
+		"title": "Google echoes Amazons assurance on EU data protection compliance",
+		"url": "http://www.pcworld.com/article/3194132/cloud-computing/google-echoes-amazons-assurance-on-eu-data-protection-compliance.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "o5nXK7v4ln5GbqNssLF123TnPt3Ku1r49u37HejfJa6116ITjmgsAzyvun116UofTAF2z8KV7IwDVJCf116123uCLDyUVTmw117117",
+		"item_date": "2017-05-02 16:45:00",
+		"title": "IoT Privacy and Security Innovation Vs Regulation",
+		"url": "http://www.cioreview.com/news/iot-privacy-and-security-innovation-vs-regulation-nid-24271-cid-133.html",
+		"domain": "www.cioreview.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zACk6p9q6M298g3Elt9xYP6r1123bN3caOaZHTdH0RoQWQIXMwVy8esNFTLc9V6H7s4Tp8ZeFMdjdT9uYzSjbw3g117117",
+		"item_date": "2017-05-03 00:00:00",
+		"title": "Dont Get Fooled The Plan Is To Kill Net Neutrality While Pretending Its Being Protected",
+		"url": "https://www.techdirt.com/blog/netneutrality/articles/20170502/17212137292/dont-get-fooled-plan-is-to-kill-net-neutrality-while-pretending-being-protected.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "z3s116Eh92hD0FBdDyBZSGSbAGANEj2123lbnIQGUPKam116DqBb123O6LseHx5ecLnKmhuBPz1vMlg1a0BXUiZFuIeoig117117",
+		"item_date": "2017-05-03 00:00:00",
+		"title": "Game Maker Sues Milwaukee Over Permit Requirement To Make Augmented Reality Games",
+		"url": "https://www.techdirt.com/articles/20170421/14432337211/game-maker-sues-milwaukee-over-permit-requirement-to-make-augmented-reality-games.shtml",
 		"domain": "www.techdirt.com",
 		"image": ""
 	},
