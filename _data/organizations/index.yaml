@@ -1,0 +1,111 @@
+- slug: aws-config
+  name: AWS Config
+  description: >-
+    AWS Config is a fully managed service that provides you with an AWS resource
+    inventory, configuration history, and configuration change notifications to
+    enable security and governance. Config Rules enables you to create rules
+    that automatically check the configuration of AWS resources recorded by AWS
+    Config. With AWS Config, you can discover existing and deleted AWS
+    resources, determine your overall compliance against rules, and dive into
+    configuration details of a resource at any point in time. These capabilities
+    enable compliance auditing, security analysis, resource change tracking, and
+    troubleshooting.
+  url: 'https://aws.amazon.com/config/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSConfig.png
+  tags: >-
+    Amazon Web
+    Services,Applications,Regulations,Governance,Security,Authentication
+- slug: federal-election-commission-fec
+  name: Federal Election Commission (FEC)
+  description: ''
+  url: 'http://www.fec.gov'
+  short_url: ''
+  twitter: 'https://twitter.com/FEC'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: ''
+  tags: >-
+    Federal Government,Fec, Election, Campaign Finance, Law, Regulations,
+    Regulate Federal Races, Congress, House, Senate, President, Presidential
+- slug: department-of-the-army
+  name: Department of the Army
+  description: ''
+  url: 'http://www.army.mil/'
+  short_url: ''
+  twitter: 'http://twitter.com/usace_med'
+  blog: ''
+  blog_rss: ''
+  github: 'http://github.com/missioncommand'
+  image: ''
+  tags: >-
+    Federal Government,Code,OpenSource,Army,Contracting,Redstone,U.s. Army,Fort
+    Wainwright,Fort Wainwright Alaska,Acquisition,Career
+    Development,Medical,Military,DOD,Us Army,Medcom,Amedd,Soldier,Mrtc,Army
+    Medical,Usar,Army Reserve,Medical Command,Fort Sam Houston,Fort Sam,Jbsa,Ft
+    Sam,San Antonio,Rudder,Rudder Reserve,Reserve Center,Ar medcom,Public
+    Health,Army Medicine,Publichealth,Recreation,Dams,Civil
+    Works,Levees,Camping,Flood Risk
+    Managment,Engineering,Construction,Connecticut,Flood Risks,Hurricane
+    Barrier,Stamford,Navigation,New
+    England,Regulations,Permitting,Dredging,Environmental Restoration,Flood
+    Control,Kayaking,Hydrology,Locks,Vessels,Vessel Queue,Lock
+    Status,Rivers,Waterways,Lock Weather,Redstone Arsenal,Foreign Military
+    Sales,Nie,Evaluation,Future,Network,Integration,Unified,Quest,Adapt,2020,Modernization,Equipment,Capability,Center,Capabilities,Arcic,Tradoc,Doctrine,Concept,Ground,Combat,Vehicle,Force,Dotmlpf,Defense,Soldiers,Technology,IT,Social,Ita,Pentagon,Ncr,Information
+    Technology,Sam,
+- slug: consumer-financial-protection-bureau
+  name: Consumer Financial Protection Bureau
+  description: ''
+  url: www.consumerfinance.gov
+  short_url: ''
+  twitter: 'http://twitter.com/cfpb'
+  blog: ''
+  blog_rss: ''
+  github: 'http://github.com/eregs'
+  image: ''
+  tags: 'Federal Government,Business,Mashup,Regulations,cfpb'
+- slug: aws-cloudhsm
+  name: AWS CloudHSM
+  description: >-
+    The AWS CloudHSM service helps you meet corporate, contractual and
+    regulatory compliance requirements for data security by using dedicated
+    Hardware Security Module (HSM) appliances within the AWS cloud. With
+    CloudHSM, you control the encryption keys and cryptographic operations
+    performed by the HSM. AWS and AWS Marketplace partners offer a variety of
+    solutions for protecting sensitive data within the AWS platform, but for
+    applications and data subject to rigorous contractual or regulatory
+    requirements for managing cryptographic keys, additional protection is
+    sometimes necessary. Until now, your only option was to store the sensitive
+    data (or the encryption keys protecting the sensitive data) in your
+    on-premises datacenters. Unfortunately, this either prevented you from
+    migrating these applications to the cloud or significantly slowed their
+    performance. The AWS CloudHSM service allows you to protect your encryption
+    keys within HSMs designed and validated to government standards for secure
+    key management. You can securely generate, store, and manage the
+    cryptographic keys used for data encryption such that they are accessible
+    only by you. AWS CloudHSM helps you comply with strict key management
+    requirements without sacrificing application performance. The AWS CloudHSM
+    service works with Amazon Virtual Private Cloud (VPC). CloudHSM instances
+    are provisioned inside your VPC with an IP address that you specify,
+    providing simple and private network connectivity to your Amazon Elastic
+    Compute Cloud (EC2) instances. Placing CloudHSM instances near your EC2
+    instances decreases network latency, which can improve application
+    performance. AWS provides dedicated and exclusive (single tenant) access to
+    CloudHSM instances, isolated from other AWS customers. Available in multiple
+    Regions and Availability Zones (AZs), AWS CloudHSM allows you to add secure
+    and durable key storage to your applications.
+  url: 'https://aws.amazon.com/cloudhsm/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  tags: 'Amazon Web Services,Contracts,Regulations,Management,Encryption'
