@@ -2938,13 +2938,6 @@
   url: https://aws.amazon.com/about-aws/whats-new/2017/06/amazon-api-gateway-enables-customization-of-error-responses/
   domain: aws.amazon.com
   image: ""
-- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_15c88bc16ae:deb57c:28ce9b86
-  item_date: "2017-06-08 10:18:31"
-  title: "Chinese authorities busted an underground network selling iPhone users\u2019
-    personal data"
-  url: https://www.theverge.com/2017/6/8/15762968/apple-china-employees-consumer-data-theft-scam
-  domain: www.theverge.com
-  image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c8ca76500:13c8e98:e55a4d93
   item_date: "2017-06-09 04:36:29"
   title: Transclude Preference for the HTTP Prefer Header
@@ -3077,5 +3070,11 @@
   title: Texas makes self
   url: https://readwrite.com/?p=98607
   domain: readwrite.com
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15ccff3b8f2:1406d91:5b78a817
+  item_date: "2017-06-22 06:11:14"
+  title: 'Regulation of Big Data: Perspectives on Strategy, Policy, Law and Privacy'
+  url: http://thegovlab.org/?p=20895
+  domain: thegovlab.org
   image: ""
 ...
