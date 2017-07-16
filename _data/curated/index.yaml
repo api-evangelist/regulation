@@ -200,6 +200,31 @@
   url: https://kasperskycontenthub.com/threatpost/?p=126738
   domain: kasperskycontenthub.com
   image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_15d32149f1f:18fb05c:4825a421
+  item_date: "2017-07-11 07:30:00"
+  title: The High Costs of GDPR Compliance
+  url: https://www.darkreading.com/endpoint/the-high-costs-of-gdpr-compliance/a/d-id/1329263
+  domain: www.darkreading.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15d33439290:15b322:ab1298eb
+  item_date: "2017-07-11 13:03:28"
+  title: "AT&T joins net neutrality protest\u2014despite suing to block neutrality
+    rules"
+  url: https://arstechnica.com/?p=1131329
+  domain: arstechnica.com
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_15d35af637d:21a3a6f:5577d05
+  item_date: "2017-07-11 17:00:00"
+  title: The Unspoken Reality of Net Neutrality
+  url: https://moz.com/blog/the-unspoken-reality-of-net-neutrality
+  domain: moz.com
+  image: ""
+- curated_id: z3pSr+OaEjhBVEQvDANeBytf09RYgo6iUMXfzqtwHcw=_15d359e92d2:1e766c9:4825a421
+  item_date: "2017-07-12 00:01:47"
+  title: Defending the open internet
+  url: http://blogs.dropbox.com/dropbox/?p=20564
+  domain: blogs.dropbox.com
+  image: ""
 - curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15d36fe1e8f:20caac3:4825a421
   item_date: "2017-07-12 06:23:00"
   title: Apple builds data center to obey Chinese cybersecurity rules
@@ -266,5 +291,12 @@
   title: Ajit Pai not concerned about number of pro
   url: https://arstechnica.com/?p=1132865
   domain: arstechnica.com
+  image: ""
+- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_15d48f0c83a:3abf48c:32bbcd87
+  item_date: "2017-07-15 18:08:45"
+  title: "Facebook says it shouldn\u2019t have to stay mum when government seeks user
+    data"
+  url: https://www.washingtonpost.com/local/public-safety/facebook-says-it-shouldnt-have-to-stay-mum-when-government-seeks-user-data/2017/07/15/759f2cd6-67dd-11e7-9928-22d00a47778f_story.html
+  domain: www.washingtonpost.com
   image: ""
 ...
