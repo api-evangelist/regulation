@@ -500,10 +500,53 @@
   url: https://www.engadget.com/2017/07/29/us-congress-investigates-kaspersky/
   domain: www.engadget.com
   image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15d9a3bf377:5679248:53d642ee
+  item_date: "2017-07-31 12:49:00"
+  title: FCC says sharing DDoS attack details undermines security
+  url: https://www.engadget.com/2017/07/31/fcc-sharing-ddos-details-undermines-security/
+  domain: www.engadget.com
+  image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15d9eec4438:1bfd522:41b98b00
   item_date: "2017-08-01 10:41:26"
   title: Republicans try to take cheap phones and broadband away from poor people
   url: https://arstechnica.com/?p=1141067
   domain: arstechnica.com
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_15d9f3c6096:593f4a:218de7ce
+  item_date: "2017-08-01 12:00:00"
+  title: US Senators Propose IoT Security Legislation
+  url: https://www.darkreading.com/vulnerabilities---threats/us-senators-propose-iot-security-legislation-/d/d-id/1329509
+  domain: www.darkreading.com
+  image: ""
+- curated_id: RhPrZIPIQhgdy1v5R5fQNkKTH3rGXcrAYsWFzsIPo4k=_15d9f4e0bb9:5fce71:bd5def64
+  item_date: "2017-08-01 12:32:47"
+  title: New Bill Seeks Basic IoT Security Standards
+  url: https://krebsonsecurity.com/?p=40164
+  domain: krebsonsecurity.com
+  image: ""
+- curated_id: dIslAC/74CXeS1Mz8zq+s0d2TJcshDPyxk6DQBVrzSc=_15d9f4fff7d:1cc3017:41b98b00
+  item_date: "2017-08-01 12:39:53"
+  title: Legislation Proposed to Secure Connected IoT Devices
+  url: https://kasperskycontenthub.com/threatpost/?p=127152
+  domain: kasperskycontenthub.com
+  image: ""
+- curated_id: MMCA/259PVQgzewWTRJNcvw/8XXvgI6S68GWeJF7z/0=_15da2488947:2c68ee:62ad6c29
+  item_date: "2017-08-02 02:27:05"
+  title: Telegram builds a direct hotline for authorities, so they can pull down illegal
+    content quickly
+  url: http://mashable.com/?p=bp-53131
+  domain: mashable.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15da2b75d25:a923e5:218de7ce
+  item_date: "2017-08-02 04:25:00"
+  title: US Senators Intro IoT Security Bill
+  url: https://www.infosecurity-magazine.com/news/us-senators-intro-iot-security-bill/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15da3d411ae:c800ca:218de7ce
+  item_date: "2017-08-02 08:46:00"
+  title: UK Data Protection Bill, Incorporating GDPR, Expected in September
+  url: https://www.infosecurity-magazine.com/news/uk-data-protection-bill-september/
+  domain: www.infosecurity-magazine.com
   image: ""
 ...
