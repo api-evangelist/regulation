@@ -660,6 +660,12 @@
   url: http://www.businessinsider.com/ethereum-drops-after-chinas-initial-coin-offering-ban-2017-9?utm_source=feedly&amp;utm_medium=referral
   domain: www.businessinsider.com
   image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15e530b3be6:16d506:81f6c248
+  item_date: "2017-09-04 09:56:23"
+  title: "Brief Analysis of China\u2019s Ban on ICOs"
+  url: https://medium.com/p/486c31768b97
+  domain: medium.com
+  image: ""
 - curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15e4e5bb423:18c213a:81bdf694
   item_date: "2017-09-04 12:17:50"
   title: China was right to clamp down on ICOs
@@ -696,6 +702,18 @@
   url: http://techcrunch.com/?p=1536434
   domain: techcrunch.com
   image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_15e57dfac62:3b8723f:ed57ae85
+  item_date: "2017-09-06 08:39:41"
+  title: Lenovo pays $3.5 million for preinstalling Superfish adware
+  url: https://www.theverge.com/2017/9/6/16261988/lenovo-adware-superfish-settlement-fine-state-ag
+  domain: www.theverge.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15e58042afb:6b6f7e8:feeb522d
+  item_date: "2017-09-06 09:19:00"
+  title: US House sends self
+  url: https://www.engadget.com/2017/09/06/house-passes-self-driving-car-bill/
+  domain: www.engadget.com
+  image: ""
 - curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15e58bd057f:767b2d:9dbe7464
   item_date: "2017-09-06 12:48:33"
   title: "EU states\u2019 data retention laws still violating privacy rights, report
@@ -721,6 +739,31 @@
   url: http://techcrunch.com/?p=1537814
   domain: techcrunch.com
   image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_15e61adb0db:4aacf29:ed57ae85
+  item_date: "2017-09-08 06:20:55"
+  title: Uber is under FBI investigation over software it used to track Lyft drivers
+  url: https://www.theverge.com/2017/9/8/16273378/uber-fbi-investigation-hell-program-lyft-tracking
+  domain: www.theverge.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15e61cd1486:4adff17:ed57ae85
+  item_date: "2017-09-08 06:46:20"
+  title: The FBI is investigating whether Uber used secret software called 'Hell'
+    to track Lyft drivers
+  url: http://www.businessinsider.com/fbi-uber-investigation-hell-software-lyft-driver-tracking-2017-9?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15e61d49035:97273:81f6c248
+  item_date: "2017-09-08 07:03:50"
+  title: Uber is apparently facing a third federal criminal investigation
+  url: https://arstechnica.com/?p=1161191
+  domain: arstechnica.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15e61dd92b2:4d010b9:56b346f
+  item_date: "2017-09-08 07:18:00"
+  title: Uber is under federal investigation for spying on Lyft drivers
+  url: https://www.engadget.com/2017/09/08/uber-federal-investigation-hell-program/
+  domain: www.engadget.com
+  image: ""
 - curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15e623e8def:c85d63:9dbe7464
   item_date: "2017-09-08 09:06:33"
   title: Bitcoin price drops following report that China is going to shut down local
@@ -734,5 +777,12 @@
     Aggregators
   url: https://www.darkreading.com/attacks-breaches/equifax-data-breach-prompts-calls-for-tougher-security-requirements-on-data-aggregators/d/d-id/1329833
   domain: www.darkreading.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15e63a08655:4fc4582:56b346f
+  item_date: "2017-09-08 14:58:02"
+  title: FIDO Alliance FIDO Alliance Addresses PSD2 Screen Scraping Debate in Letter
+    to European Commission and European Parliament
+  url: https://fidoalliance.org/fido-alliance-addresses-psd2-screen-scraping/
+  domain: fidoalliance.org
   image: ""
 ...
