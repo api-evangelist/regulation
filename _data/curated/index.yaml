@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: Senator slams Twitter over suspected accounts tied to Russia
-  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: FAA bans drone flights near major US landmarks
   url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: Senator slams Twitter over suspected accounts tied to Russia
+  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -1993,6 +1993,12 @@
   title: GAW Miners founder owes nearly $10 million to SEC over Bitcoin fraud
   url: https://arstechnica.com/?p=1181789
   domain: arstechnica.com
+  image: ""
+- curated_id: qQEZ7AvNCW5MO++95eG+wPiOBUdDkSnCTJkRZA9Z4ro=_15f0250b52a:1eaa835:4d363ef0
+  item_date: "2017-10-09 11:01:02"
+  title: 'GDPR Compliance: Weather You Like it or Not'
+  url: https://blogs.cisco.com/?p=234963
+  domain: blogs.cisco.com
   image: ""
 - curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_15debe076b9:5af74b:218de7ce
   item_date: "2017-10-10 00:00:18"
