@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: FAA bans drone flights near major US landmarks
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: Senator slams Twitter over suspected accounts tied to Russia
   url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: FAA bans drone flights near major US landmarks
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -2047,5 +2047,17 @@
   title: Windows 10's data collection allegedly violates Dutch privacy law
   url: https://www.engadget.com/2017/10/15/windows-10-said-to-violate-dutch-privacy-law/
   domain: www.engadget.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15f3453a9bc:522c0ba:9ac85644
+  item_date: "2017-10-19 03:20:00"
+  title: "European Commission: A Firm \u201CNo\u201D to Encryption Backdoors"
+  url: https://www.infosecurity-magazine.com/news/european-commission-no-to/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: PabZ8i1QCHv3KpsuDwP+IaHjEII8doc1zV63QTNW0N8=_15f37ef6724:6f5004c:3522b906
+  item_date: "2017-10-19 20:59:17"
+  title: Facebook and Google might be one step closer to new regulations on ad transparency
+  url: https://www.washingtonpost.com/news/the-switch/wp/2017/10/19/facebook-and-google-might-be-one-step-closer-to-new-regulations-on-ad-transparency/
+  domain: www.washingtonpost.com
   image: ""
 ...
