@@ -1101,16 +1101,16 @@
   url: https://www.engadget.com/2017/08/15/tech-companies-privacy-supreme-court-case/
   domain: www.engadget.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
-  item_date: "2017-08-15 09:51:33"
-  title: Judge orders LinkedIn to stop blocking data
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
   item_date: "2017-08-15 09:51:33"
   title: Pressured by government, Uber agrees to protect rider data
   url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
+  item_date: "2017-08-15 09:51:33"
+  title: Judge orders LinkedIn to stop blocking data
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15de6dc2143:482dc:6c0c5382
@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: FAA bans drone flights near major US landmarks
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: Senator slams Twitter over suspected accounts tied to Russia
   url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: FAA bans drone flights near major US landmarks
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -2048,11 +2048,49 @@
   url: https://www.engadget.com/2017/10/15/windows-10-said-to-violate-dutch-privacy-law/
   domain: www.engadget.com
   image: ""
+- curated_id: PabZ8i1QCHv3KpsuDwP+IaHjEII8doc1zV63QTNW0N8=_15f2597d870:51461d0:4d363ef0
+  item_date: "2017-10-16 07:30:29"
+  title: "Microsoft said police can\u2019t seize data it stores overseas. The U.S.
+    disagrees."
+  url: https://www.washingtonpost.com/politics/courts_law/supreme-court-to-consider-major-digital-privacy-case-on-microsoft-email-storage/2017/10/16/b1e74936-b278-11e7-be94-fabb0f1e9ffb_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15f2615e11a:3c85372:9ac85644
+  item_date: "2017-10-16 09:41:00"
+  title: Telegram fined after refusing to provide user data to Russia
+  url: https://www.engadget.com/2017/10/16/telegram-fined-by-russian-court/
+  domain: www.engadget.com
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_15f262acbd4:3cad858:9ac85644
+  item_date: "2017-10-16 10:00:00"
+  title: 'GDPR Compliance: 5 Early Steps to Get Laggards Going'
+  url: https://www.darkreading.com/endpoint/gdpr-compliance-5-early-steps-to-get-laggards-going-/d/d-id/1330118
+  domain: www.darkreading.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15f307de093:db6f57:aa3e42e1
+  item_date: "2017-10-17 03:32:38"
+  title: "Why ICO\u2019s Need To Be Regulated"
+  url: https://medium.com/p/349b920b62c8
+  domain: medium.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15f3190ab77:6548067:3522b906
+  item_date: "2017-10-18 15:12:00"
+  title: CNN gets the first FAA waiver to fly drones over crowds
+  url: https://www.engadget.com/2017/10/18/cnn-gets-the-first-faa-waiver-to-fly-drones-over-crowds/
+  domain: www.engadget.com
+  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15f3453a9bc:522c0ba:9ac85644
   item_date: "2017-10-19 03:20:00"
   title: "European Commission: A Firm \u201CNo\u201D to Encryption Backdoors"
   url: https://www.infosecurity-magazine.com/news/european-commission-no-to/
   domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: qWvG3upKVjhQsFGaZKAHYPLj/ZqG5EvmI9R31DUAgMw=_15f358b4020:6ba2cb4:3522b906
+  item_date: "2017-10-19 09:45:05"
+  title: Honest Ads Act would add needed transparency and accountability to online
+    political ads
+  url: http://sunlightfoundation.com/?p=106224
+  domain: sunlightfoundation.com
   image: ""
 - curated_id: PabZ8i1QCHv3KpsuDwP+IaHjEII8doc1zV63QTNW0N8=_15f37ef6724:6f5004c:3522b906
   item_date: "2017-10-19 20:59:17"
