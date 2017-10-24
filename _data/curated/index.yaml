@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: FAA bans drone flights near major US landmarks
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: Senator slams Twitter over suspected accounts tied to Russia
   url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: FAA bans drone flights near major US landmarks
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -2115,6 +2115,12 @@
   item_date: "2017-10-23 08:24:31"
   title: Proposed law would regulate online ads to hinder Russian election influence
   url: https://arstechnica.com/?p=1191793
+  domain: arstechnica.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15f4c6d4e91:1f8cbfd:aa3e42e1
+  item_date: "2017-10-23 20:27:37"
+  title: Canadian regulators have blocked Soylent, producers say
+  url: https://arstechnica.com/?p=1192475
   domain: arstechnica.com
   image: ""
 ...
