@@ -1101,16 +1101,16 @@
   url: https://www.engadget.com/2017/08/15/tech-companies-privacy-supreme-court-case/
   domain: www.engadget.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
-  item_date: "2017-08-15 09:51:33"
-  title: Judge orders LinkedIn to stop blocking data
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
   item_date: "2017-08-15 09:51:33"
   title: Pressured by government, Uber agrees to protect rider data
   url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
+  item_date: "2017-08-15 09:51:33"
+  title: Judge orders LinkedIn to stop blocking data
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15de6dc2143:482dc:6c0c5382
@@ -2123,11 +2123,36 @@
   url: https://arstechnica.com/?p=1192475
   domain: arstechnica.com
   image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15f5042b358:255f394:626ab4cd
+  item_date: "2017-10-24 14:19:51"
+  title: "US government is clueless about AI and shouldn\u2019t be allowed to regulate
+    it"
+  url: https://thenextweb.com/?p=1086705
+  domain: thenextweb.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15f53232426:94fd20a:4d363ef0
+  item_date: "2017-10-25 02:55:00"
+  title: Consumer Group Calls for Changes to Data Protection Bill
+  url: https://www.infosecurity-magazine.com/news/consumer-group-changesdata/
+  domain: www.infosecurity-magazine.com
+  image: ""
 - curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15f5382e958:9676602:3522b906
   item_date: "2017-10-25 05:27:00"
   title: UK watchdog calls out unlabelled Snapchat ads for the first time
   url: https://www.engadget.com/2017/10/25/uk-unlabelled-snapchat-ads/
   domain: www.engadget.com
+  image: ""
+- curated_id: PabZ8i1QCHv3KpsuDwP+IaHjEII8doc1zV63QTNW0N8=_15f54aa6f0d:97a328f:4d363ef0
+  item_date: "2017-10-25 10:52:56"
+  title: Trump administration to allow quick and dramatic expansion of drone use
+  url: https://www.washingtonpost.com/local/trafficandcommuting/trump-administration-establishing-innovation-zones-for-widespread-drone-use/2017/10/25/a004b400-b990-11e7-9e58-e6288544af98_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: 7TEBlXSMajGkv/YSW3g1Klkey5yNzPysA89gpF/QOCo=_15f5936a436:3159806:aa3e42e1
+  item_date: "2017-10-26 03:32:54"
+  title: HIPAA Introduction and Compliance Checklist
+  url: http://www.bmc.com/blogs/?p=11342
+  domain: www.bmc.com
   image: ""
 - curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15f5ac4c3b0:33ccacd:aa3e42e1
   item_date: "2017-10-26 15:18:46"
