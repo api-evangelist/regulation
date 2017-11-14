@@ -1101,16 +1101,16 @@
   url: https://www.engadget.com/2017/08/15/tech-companies-privacy-supreme-court-case/
   domain: www.engadget.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
-  item_date: "2017-08-15 09:51:33"
-  title: Judge orders LinkedIn to stop blocking data
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
   item_date: "2017-08-15 09:51:33"
   title: Pressured by government, Uber agrees to protect rider data
   url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
+  item_date: "2017-08-15 09:51:33"
+  title: Judge orders LinkedIn to stop blocking data
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15de6dc2143:482dc:6c0c5382
@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: Senator slams Twitter over suspected accounts tied to Russia
-  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: FAA bans drone flights near major US landmarks
   url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: Senator slams Twitter over suspected accounts tied to Russia
+  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -2166,5 +2166,147 @@
   title: "FCC won\u2019t vote on Net Neutrality in November"
   url: http://techcrunch.com/?p=1560293
   domain: techcrunch.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15f6b8f1ba3:ccc35f:7157a206
+  item_date: "2017-10-29 21:28:33"
+  title: CFPB Outlines Principles For Consumer
+  url: https://www.consumerfinance.gov/about-us/newsroom/cfpb-outlines-principles-consumer-authorized-financial-data-sharing-and-aggregation/
+  domain: www.consumerfinance.gov
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15f6d4830ba:fb6a9c:541f3c40
+  item_date: "2017-10-30 04:20:00"
+  title: McAfee Says "No" to Foreign Govt Code Reviews
+  url: https://www.infosecurity-magazine.com/news/mcafee-says-no-to-foreign-govt/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: z81rhUic+YauVpgkAGxV9Vted6WQUOkti5KdfoIhiX8=_15f71f2dc45:16a3b73:7157a206
+  item_date: "2017-10-31 03:00:32"
+  title: 'Coming to the GDPRescue: Prepare for the GDPR with RiskIQ Digital Footprint
+    PII/GDPR Analytics'
+  url: http://www.riskiq.com/?p=12282
+  domain: www.riskiq.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15f72471f3e:1763119:3c0bb656
+  item_date: "2017-10-31 04:42:00"
+  title: EU to Declare Cyber
+  url: https://www.infosecurity-magazine.com/news/eu-to-declare-cyber-attacks-act-of/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15f7847ab74:1b23ea:8cbd7d4f
+  item_date: "2017-11-01 08:51:20"
+  title: ICOs and Securities Regulations
+  url: https://medium.com/p/5c91b18b46dd
+  domain: medium.com
+  image: ""
+- curated_id: pNeF96OsSgl013FYTPT0FAAQ9MevDuBoi121KMKpGxg=_15f7d62ccd0:e42a5d:3c0bb656
+  item_date: "2017-11-01 12:17:27"
+  title: "Why Facebook and Twitter Can\u2019t Be Trusted to Police Themselves"
+  url: https://www.politico.com/magazine/story/2017/11/01/why-facebook-and-twitter-cant-be-trusted-to-police-themselves-215775
+  domain: www.politico.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15f7e319176:65f6f:8cbd7d4f
+  item_date: "2017-11-02 01:30:29"
+  title: Finally, the EU is giving you control of your banking data
+  url: https://medium.com/p/57f0ee424a3d
+  domain: medium.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15f831b2907:4e5b01:aa3e42e1
+  item_date: "2017-11-03 11:13:56"
+  title: Comcast asks the FCC to prohibit states from enforcing net neutrality
+  url: https://arstechnica.com/?p=1199517
+  domain: arstechnica.com
+  image: ""
+- curated_id: 7TEBlXSMajGkv/YSW3g1Klkey5yNzPysA89gpF/QOCo=_15f91b1f7b0:1454deb:aa3e42e1
+  item_date: "2017-11-06 01:01:42"
+  title: "HIPAA\u2019s Security Rule: The Beginner\u2019s Guide"
+  url: http://www.bmc.com/blogs/?p=11420
+  domain: www.bmc.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_15f915c5173:58ce9c:541f3c40
+  item_date: "2017-11-06 04:37:09"
+  title: HM Treasury publishes response to PSD2 consultation
+  url: https://www.lexology.com/library/detail.aspx?g=b5fbfc9c-459a-4f2c-aade-0bf6fe374566
+  domain: www.lexology.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15f9b9ff8aa:3b680c:541f3c40
+  item_date: "2017-11-08 04:29:00"
+  title: CCTV Users at 'Risk of Breaching GDPR'
+  url: https://www.infosecurity-magazine.com/news/cctv-users-at-risk-of-breaching/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: 91aBtyr52zeGKARCU1JlNQZkOhOt1haswjXPQa+W4y0=_15f9bec138a:44639a:541f3c40
+  item_date: "2017-11-08 05:30:00"
+  title: What You Need to Know About Complying With GDPR
+  url: https://duo.com/blog/what-you-need-to-know-about-complying-with-gdpr
+  domain: duo.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15f9c177f78:49cf19:541f3c40
+  item_date: "2017-11-08 06:41:00"
+  title: The FCC is helping cable companies evade consumer protection rules
+  url: https://www.engadget.com/2017/11/08/the-fcc-is-helping-cable-companies-evade-consumer-protection-rul/
+  domain: www.engadget.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15f9cb360cc:23645c:8cbd7d4f
+  item_date: "2017-11-08 09:32:56"
+  title: "IBM\u2019s plan to regulate pot with blockchains isn\u2019t as crazy as
+    it sounds"
+  url: https://arstechnica.com/?p=1201449
+  domain: arstechnica.com
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_15fa12395f1:d6d138:541f3c40
+  item_date: "2017-11-09 06:00:00"
+  title: '''Goldilocks'' Legislation Aims to Clean up IoT Security'
+  url: https://www.darkreading.com/partner-perspectives/f5/goldilocks-legislation-aims-to-clean-up-iot-security-/a/d-id/1330361
+  domain: www.darkreading.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15fa169c6c7:de565d:3c0bb656
+  item_date: "2017-11-09 07:31:00"
+  title: Sen. Al Franken slams Facebook and Google's control of the press
+  url: https://www.engadget.com/2017/11/09/al-franken-facebook-google-power-over-publishers/
+  domain: www.engadget.com
+  image: ""
+- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_15fa1b16164:e4377c:7157a206
+  item_date: "2017-11-09 08:51:17"
+  title: Tech companies pushed for net neutrality. Now Sen. Al Franken wants to turn
+    it on them.
+  url: https://www.washingtonpost.com/news/the-switch/wp/2017/11/09/tech-companies-pushed-for-net-neutrality-now-al-franken-wants-to-turn-it-on-them/
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15fa2672e1f:2c5c005:626ab4cd
+  item_date: "2017-11-09 12:05:14"
+  title: "Regulators are eager for driverless cars\u2014and I might lose a bet"
+  url: https://arstechnica.com/?p=1201861
+  domain: arstechnica.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15fa28cec40:fcf591:7157a206
+  item_date: "2017-11-09 12:31:38"
+  title: "Sen. Al Franken is doubtful Facebook, Google, and Twitter can police their
+    sites \u2014 and is calling for 'vigorous oversight' by regulators (FB)"
+  url: http://www.businessinsider.com/sen-al-franken-calls-for-vigorous-overight-of-big-tech-companies-2017-11?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15fa2a2ea23:10195b9:541f3c40
+  item_date: "2017-11-09 13:10:00"
+  title: Google urges FEC to adopt more specific rules for political ads
+  url: https://www.engadget.com/2017/11/09/google-fec-more-specific-rules-political-ads/
+  domain: www.engadget.com
+  image: ""
+- curated_id: MMCA/259PVQgzewWTRJNcvw/8XXvgI6S68GWeJF7z/0=_15fa2e6114d:2d24c6a:626ab4cd
+  item_date: "2017-11-09 14:27:51"
+  title: IRS targets Coinbase users in an attempt to thwart tax fraud
+  url: http://mashable.com/?p=bp-62260
+  domain: mashable.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15fb78eb82b:2f6d68a:541f3c40
+  item_date: "2017-11-13 14:41:00"
+  title: Senators want FEC to improve transparency for online political ads
+  url: https://www.engadget.com/2017/11/13/senators-ask-fec-to-improve-online-ad-transparency/
+  domain: www.engadget.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
   image: ""
 ...
