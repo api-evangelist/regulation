@@ -1101,16 +1101,16 @@
   url: https://www.engadget.com/2017/08/15/tech-companies-privacy-supreme-court-case/
   domain: www.engadget.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
-  item_date: "2017-08-15 09:51:33"
-  title: Pressured by government, Uber agrees to protect rider data
-  url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
   item_date: "2017-08-15 09:51:33"
   title: Judge orders LinkedIn to stop blocking data
   url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
+  item_date: "2017-08-15 09:51:33"
+  title: Pressured by government, Uber agrees to protect rider data
+  url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15de6dc2143:482dc:6c0c5382
@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: FAA bans drone flights near major US landmarks
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: Senator slams Twitter over suspected accounts tied to Russia
   url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: FAA bans drone flights near major US landmarks
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -2297,6 +2297,19 @@
   url: http://mashable.com/?p=bp-62260
   domain: mashable.com
   image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15fb6fedb25:16a8376:aa3e42e1
+  item_date: "2017-11-13 12:07:34"
+  title: Senate Democrats press FEC to expand disclosure requirements to online political
+    advertising
+  url: http://techcrunch.com/?p=1566747
+  domain: techcrunch.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15fb705b261:15b52f:8cbd7d4f
+  item_date: "2017-11-13 12:10:39"
+  title: Lawmakers demand investigation into FCC Chairman Ajit Pai
+  url: https://arstechnica.com/?p=1203847
+  domain: arstechnica.com
+  image: ""
 - curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15fb78eb82b:2f6d68a:541f3c40
   item_date: "2017-11-13 14:41:00"
   title: Senators want FEC to improve transparency for online political ads
@@ -2308,5 +2321,11 @@
   title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
   domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15fc0f5e7ea:5241e5:aa3e42e1
+  item_date: "2017-11-15 10:33:27"
+  title: Skype fined $36k for not providing data to Belgian authorities
+  url: https://thenextweb.com/?p=1091068
+  domain: thenextweb.com
   image: ""
 ...
