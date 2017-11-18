@@ -1101,16 +1101,16 @@
   url: https://www.engadget.com/2017/08/15/tech-companies-privacy-supreme-court-case/
   domain: www.engadget.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
-  item_date: "2017-08-15 09:51:33"
-  title: Judge orders LinkedIn to stop blocking data
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
   item_date: "2017-08-15 09:51:33"
   title: Pressured by government, Uber agrees to protect rider data
   url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
+  item_date: "2017-08-15 09:51:33"
+  title: Judge orders LinkedIn to stop blocking data
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15de6dc2143:482dc:6c0c5382
@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: Senator slams Twitter over suspected accounts tied to Russia
-  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: FAA bans drone flights near major US landmarks
   url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: Senator slams Twitter over suspected accounts tied to Russia
+  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -2228,6 +2228,12 @@
   url: https://www.lexology.com/library/detail.aspx?g=b5fbfc9c-459a-4f2c-aade-0bf6fe374566
   domain: www.lexology.com
   image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15fc64ec57c:55b53:1cefc59
+  item_date: "2017-11-06 16:03:18"
+  title: 'Regulating Sharing Economy: 3 Suggestions to Promote Innovation'
+  url: https://medium.com/p/396eed7faa4a
+  domain: medium.com
+  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15f9b9ff8aa:3b680c:541f3c40
   item_date: "2017-11-08 04:29:00"
   title: CCTV Users at 'Risk of Breaching GDPR'
@@ -2339,6 +2345,31 @@
   title: California may limit liability of self
   url: http://hosted.ap.org/dynamic/stories/A/APFN_US_SELF_DRIVING_CARS_LIABILITY?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
+  image: ""
+- curated_id: PabZ8i1QCHv3KpsuDwP+IaHjEII8doc1zV63QTNW0N8=_15fc21c969a:8c13b1:7157a206
+  item_date: "2017-11-15 15:56:14"
+  title: Trump administration pulls back curtain on secretive cybersecurity process
+  url: https://www.washingtonpost.com/world/national-security/trump-administration-pulls-back-curtain-on-secretive-cybersecurity-process/2017/11/15/f9a2e3ec-ca16-11e7-aa96-54417592cf72_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15fc4fd7bcc:436971:7157a206
+  item_date: "2017-11-16 05:00:18"
+  title: Box and Dropbox rival Egnyte is aiming to capitalise on Europe's strict new
+    data laws
+  url: http://www.businessinsider.com/box-and-dropbox-rival-egnyte-is-aiming-to-capitalise-on-europes-strict-new-data-laws-2017-11?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: /XjtS/+KqME3icyckpmbdVHPPb0c6JwmNPkOxVYaD0w=_15fc5af578b:5d2295:541f3c40
+  item_date: "2017-11-16 05:52:57"
+  title: Segment and the GDPR
+  url: https://segment.com/blog/segment-and-the-gdpr/
+  domain: segment.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15fc5222dd1:33a76:1cefc59
+  item_date: "2017-11-16 06:00:57"
+  title: Segment has a plan to help companies comply with GDPR data privacy requests
+  url: http://techcrunch.com/?p=1568132
+  domain: techcrunch.com
   image: ""
 - curated_id: 7TEBlXSMajGkv/YSW3g1Klkey5yNzPysA89gpF/QOCo=_15fca58d20b:30c30a:d77c33d7
   item_date: "2017-11-16 16:00:37"
