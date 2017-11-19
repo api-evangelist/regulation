@@ -1101,16 +1101,16 @@
   url: https://www.engadget.com/2017/08/15/tech-companies-privacy-supreme-court-case/
   domain: www.engadget.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
-  item_date: "2017-08-15 09:51:33"
-  title: Pressured by government, Uber agrees to protect rider data
-  url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
   item_date: "2017-08-15 09:51:33"
   title: Judge orders LinkedIn to stop blocking data
   url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
+  item_date: "2017-08-15 09:51:33"
+  title: Pressured by government, Uber agrees to protect rider data
+  url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15de6dc2143:482dc:6c0c5382
@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: FAA bans drone flights near major US landmarks
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: Senator slams Twitter over suspected accounts tied to Russia
   url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: FAA bans drone flights near major US landmarks
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -2322,10 +2322,40 @@
   url: https://www.engadget.com/2017/11/13/senators-ask-fec-to-improve-online-ad-transparency/
   domain: www.engadget.com
   image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15fbbd96a08:3710d1c:541f3c40
+  item_date: "2017-11-14 10:43:00"
+  title: FDA approves first drug that doctors can track remotely
+  url: https://www.engadget.com/2017/11/14/fda-approves-digital-pill/
+  domain: www.engadget.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15fbf42a53f:29084c:626ab4cd
+  item_date: "2017-11-15 02:38:22"
+  title: Call to ban sale of IoT toys with proven security flaws
+  url: http://techcrunch.com/?p=1567538
+  domain: techcrunch.com
+  image: ""
+- curated_id: PabZ8i1QCHv3KpsuDwP+IaHjEII8doc1zV63QTNW0N8=_15fbfa52777:467b26:3c0bb656
+  item_date: "2017-11-15 04:26:32"
+  title: Years after regulatory crackdown, some security cameras still open to hackers
+  url: https://www.washingtonpost.com/business/economy/years-after-regulatory-crackdown-some-security-cameras-still-open-to-hackers/2017/11/14/b15f8428-c980-11e7-8321-481fd63f174d_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fc001ceb9:50234d:541f3c40
+  item_date: "2017-11-15 06:01:00"
+  title: '#ISSE17: Connected Devices Legal Framework Proposed by EC'
+  url: https://www.infosecurity-magazine.com/news/isse17-connected-devices-legal/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15fc0e23cdf:54785:8cbd7d4f
@@ -2389,5 +2419,11 @@
   title: We're Still Not Ready for GDPR? What is Wrong With Us?
   url: https://www.darkreading.com/risk/were-still-not-ready-for-gdpr-what-is-wrong-with-us-/a/d-id/1330422
   domain: www.darkreading.com
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15fcfa0412b:1498fb7:3c0bb656
+  item_date: "2017-11-18 06:55:07"
+  title: Germany bans children's smart watches with listening app
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_EU_GERMANY_WATCH_BAN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
   image: ""
 ...
