@@ -1101,16 +1101,16 @@
   url: https://www.engadget.com/2017/08/15/tech-companies-privacy-supreme-court-case/
   domain: www.engadget.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
-  item_date: "2017-08-15 09:51:33"
-  title: Pressured by government, Uber agrees to protect rider data
-  url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
   item_date: "2017-08-15 09:51:33"
   title: Judge orders LinkedIn to stop blocking data
   url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
+  item_date: "2017-08-15 09:51:33"
+  title: Pressured by government, Uber agrees to protect rider data
+  url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15de6dc2143:482dc:6c0c5382
@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: FAA bans drone flights near major US landmarks
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: Senator slams Twitter over suspected accounts tied to Russia
   url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: FAA bans drone flights near major US landmarks
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -2322,16 +2322,16 @@
   url: https://www.engadget.com/2017/11/13/senators-ask-fec-to-improve-online-ad-transparency/
   domain: www.engadget.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15fbbd96a08:3710d1c:541f3c40
@@ -2702,5 +2702,90 @@
     chair"
   url: https://arstechnica.com/?p=1230213
   domain: arstechnica.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_1605b3dc97f:496c4e3:541f3c40
+  item_date: "2017-12-09 12:48:45"
+  title: CFPB principles for data aggregation services could have broad implications
+  url: https://www.lexology.com/library/detail.aspx?g=b8d433ba-ccd5-46ae-9f0b-88cc240901e9
+  domain: www.lexology.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_1604afba767:195099:c8ea36f9
+  item_date: "2017-12-12 05:47:36"
+  title: All ICOs claiming to be registered with the SEC are lying, says top official
+  url: https://thenextweb.com/?p=1096172
+  domain: thenextweb.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1604b1d22d2:198d1d:c8ea36f9
+  item_date: "2017-12-12 06:24:33"
+  title: SEC shuts down Munchee ICO
+  url: http://techcrunch.com/?p=1577157
+  domain: techcrunch.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_1604be54a0b:2dac2c2:7157a206
+  item_date: "2017-12-12 09:41:19"
+  title: Monitoring regulatory changes to stay one step ahead
+  url: https://www.risk.net/regulation/5373621/monitoring-regulatory-changes-to-stay-one-step-ahead
+  domain: www.risk.net
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_1604c82e5f5:2f4001e:541f3c40
+  item_date: "2017-12-12 11:55:00"
+  title: 'GDPR: True Cost of Compliance Far Less Than Non'
+  url: https://www.infosecurity-magazine.com/news/gdpr-true-cost-of-compliance/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_1604d54fe48:30e1737:541f3c40
+  item_date: "2017-12-12 16:44:00"
+  title: US once again requires that you register your drone
+  url: https://www.engadget.com/2017/12/12/trump-signs-bill-requiring-drone-registration/
+  domain: www.engadget.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_1604f7fcfe8:3454902:541f3c40
+  item_date: "2017-12-13 02:40:00"
+  title: Uber is fighting to keep its licence in another UK city
+  url: https://www.engadget.com/2017/12/13/uber-uk-city-licence-ban-york/
+  domain: www.engadget.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_16050a1c46c:35d8b6a:7157a206
+  item_date: "2017-12-13 08:05:26"
+  title: Micro Focus Embeds Analytics in Archiving Service to Improve Compliance
+  url: https://www.itbusinessedge.com/blogs/it-unmasked/micro-focus-embeds-analytics-in-archiving-service-to-improve-compliance.html
+  domain: www.itbusinessedge.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_16053cf3c97:6e81ca:9d76d584
+  item_date: "2017-12-13 22:54:49"
+  title: "India\u2019s taxmen are coming for your Bitcoins"
+  url: https://thenextweb.com/?p=1096749
+  domain: thenextweb.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_160590f5b72:451af0d:3c0bb656
+  item_date: "2017-12-14 23:19:58"
+  title: Regulations.
+  url: http://flowingdata.com/?p=50542
+  domain: flowingdata.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_1606bb2d562:14f0356:7157a206
+  item_date: "2017-12-18 14:06:20"
+  title: WhatsApp ordered to stop sharing user data with Facebook
+  url: https://www.theverge.com/2017/12/18/16792448/whatsapp-facebook-data-sharing-no-user-consent
+  domain: www.theverge.com
+  image: ""
+- curated_id: W9U8O8prINoVZrC8tjkQgq9ivE6dXZslCV+Cz7vETzg=_1606fdc8ea0:4f499:98c4d03d
+  item_date: "2017-12-19 09:29:35"
+  title: 'GDPR: The what, the when, the why... and how Cloudinary is preparing for
+    Day 0'
+  url: https://cloudinary.com/blog/gdpr_the_what_the_when_the_why_and_how_cloudinary_is_preparing_for_day_0
+  domain: cloudinary.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_16073b9fb63:387676:7157a206
+  item_date: "2017-12-20 03:40:00"
+  title: Facebook Government Data Requests Hit All
+  url: https://www.infosecurity-magazine.com/news/facebook-government-data-requests/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_16079e1d6f0:e9b098:541f3c40
+  item_date: "2017-12-21 06:03:17"
+  title: How Regulators Become Blockchain Innovators
+  url: https://www.coindesk.com/regulators-become-blockchain-innovators/
+  domain: www.coindesk.com
   image: ""
 ...
