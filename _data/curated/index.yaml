@@ -1101,16 +1101,16 @@
   url: https://www.engadget.com/2017/08/15/tech-companies-privacy-supreme-court-case/
   domain: www.engadget.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
-  item_date: "2017-08-15 09:51:33"
-  title: Pressured by government, Uber agrees to protect rider data
-  url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
   item_date: "2017-08-15 09:51:33"
   title: Judge orders LinkedIn to stop blocking data
   url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
+  item_date: "2017-08-15 09:51:33"
+  title: Pressured by government, Uber agrees to protect rider data
+  url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15de6dc2143:482dc:6c0c5382
@@ -2322,16 +2322,16 @@
   url: https://www.engadget.com/2017/11/13/senators-ask-fec-to-improve-online-ad-transparency/
   domain: www.engadget.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15fbbd96a08:3710d1c:541f3c40
@@ -2850,5 +2850,17 @@
   title: "Facebook, Twitter and social media\u2019s road to federal regulation"
   url: https://www.engadget.com/2017/12/29/facebook-twitter-google-social-media-government-regulations/
   domain: www.engadget.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_160ea474058:1f47ff3:3c0bb656
+  item_date: "2018-01-12 03:56:30"
+  title: 'PSD2 Eve: Tomorrow It Goes Live. Are You Ready?'
+  url: http://apimetrics.io/?p=4182
+  domain: apimetrics.io
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_160ea7462aa:3517b:e72acdfe
+  item_date: "2018-01-12 04:59:40"
+  title: 'Crypto Regulatory Databases: A cost'
+  url: https://medium.com/p/e277d632f88a
+  domain: medium.com
   image: ""
 ...
