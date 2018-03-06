@@ -1101,16 +1101,16 @@
   url: https://www.engadget.com/2017/08/15/tech-companies-privacy-supreme-court-case/
   domain: www.engadget.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
-  item_date: "2017-08-15 09:51:33"
-  title: Judge orders LinkedIn to stop blocking data
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
   item_date: "2017-08-15 09:51:33"
   title: Pressured by government, Uber agrees to protect rider data
   url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
+  item_date: "2017-08-15 09:51:33"
+  title: Judge orders LinkedIn to stop blocking data
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15de6dc2143:482dc:6c0c5382
@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: Senator slams Twitter over suspected accounts tied to Russia
-  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: FAA bans drone flights near major US landmarks
   url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: Senator slams Twitter over suspected accounts tied to Russia
+  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -2322,16 +2322,16 @@
   url: https://www.engadget.com/2017/11/13/senators-ask-fec-to-improve-online-ad-transparency/
   domain: www.engadget.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15fbbd96a08:3710d1c:541f3c40
@@ -2869,5 +2869,148 @@
     standard"
   url: https://arstechnica.com/?p=1246609
   domain: arstechnica.com
+  image: ""
+- curated_id: dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc=_1615e551a9c:2054ad6:3c0bb656
+  item_date: "2018-02-03 16:46:35"
+  title: The coming EU privacy regulation will end up remaking the world's web
+  url: https://boingboing.net/?p=571059
+  domain: boingboing.net
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_1616b7a677c:32ceab5:3c0bb656
+  item_date: "2018-02-06 05:46:21"
+  title: Why A Data Portability Act Might Not Be An Effective Policy Path
+  url: https://www.americanactionforum.org/insight/data-portability-act-might-not-effective-policy-path/
+  domain: www.americanactionforum.org
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_1616c5567d1:3392988:7157a206
+  item_date: "2018-02-06 10:12:44"
+  title: "Apple\u2019s Shazam acquisition to be examined by the European Commission"
+  url: https://www.theverge.com/2018/2/6/16979356/apple-shazam-acquisition-eu-merger-deal
+  domain: www.theverge.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1616d4057fe:350ff52:7157a206
+  item_date: "2018-02-06 14:15:39"
+  title: Cryptocurrency comes storming back after a blockbuster regulatory hearing
+    on Capitol Hill
+  url: http://www.businessinsider.com/cryptocurrency-bitcoin-price-storming-back-after-blockbuster-regulatory-hearing-on-capitol-hill-2018-2?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_16175eb8e85:43412b2:7157a206
+  item_date: "2018-02-08 06:39:55"
+  title: The US is finally taking action on fintech regulation
+  url: http://www.businessinsider.com/the-us-is-finally-taking-action-on-fintech-regulation-2018-2?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1617a652d8e:10d06a:c8ea36f9
+  item_date: "2018-02-09 03:48:25"
+  title: Why Regulation Can Help Bitfinex and Tether
+  url: https://medium.com/p/c12ec5c66584
+  domain: medium.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1619574b4eb:4ee002:e66afc8b
+  item_date: "2018-02-14 09:54:40"
+  title: "FCC looks to approve SpaceX\u2019s satellite internet plan"
+  url: http://techcrunch.com/?p=1598507
+  domain: techcrunch.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_16199904697:a08e25:9e976e77
+  item_date: "2018-02-15 05:02:49"
+  title: London sets out safety
+  url: http://techcrunch.com/?p=1598830
+  domain: techcrunch.com
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_1619f1677aa:80e7a85:3c0bb656
+  item_date: "2018-02-16 06:48:25"
+  title: Belgian court orders Facebook to stop collecting data
+  url: http://hosted.ap.org/dynamic/stories/E/EU_BELGIUM_FACEBOOK?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1619f556f23:808ebc5:7157a206
+  item_date: "2018-02-16 07:40:52"
+  title: The SEC halts trading of 3 companies after they said they were diving into
+    crypto
+  url: http://www.businessinsider.com/sec-halts-trading-of-companies-after-diving-into-crypto-2018-2?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_1619fe65a59:47f188:9e976e77
+  item_date: "2018-02-16 10:28:44"
+  title: Bitcoin miner in NYC home interfered with T
+  url: https://arstechnica.com/?p=1261619
+  domain: arstechnica.com
+  image: ""
+- curated_id: vEBVBCmHQnInOGyu3z07oRvBzq5FkGM/b+ipPoxIvLg=_161b3c1daf4:1a687df:9e976e77
+  item_date: "2018-02-20 07:07:47"
+  title: 'Meetup: How APIs Will Make or Break Your Success with PSD2 and Open Banking'
+  url: http://blog.smartbear.com/?p=24187
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_161b3cf34b8:1a8fcde:e66afc8b
+  item_date: "2018-02-20 07:22:34"
+  title: 'ICOs v Crowdfunding: A Regulatory Perspective'
+  url: https://medium.com/p/140532063c2a
+  domain: medium.com
+  image: ""
+- curated_id: dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc=_161b9a8f1b6:a779674:541f3c40
+  item_date: "2018-02-21 10:30:05"
+  title: The Copyright Office is spending the year deciding technology's future, but
+    the future doesn't get a seat at the table
+  url: https://boingboing.net/?p=575189
+  domain: boingboing.net
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_161ba22cdd4:a845426:541f3c40
+  item_date: "2018-02-21 10:46:46"
+  title: How Regulations Will Impact AI Innovation
+  url: https://www.ca.com/us/modern-software-factory/content/how-regulations-will-impact-ai-innovation.html?cid=GLOB-SMM-ABUS-AAR-000002-00000571
+  domain: www.ca.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_161bab95cb7:a84f798:3c0bb656
+  item_date: "2018-02-21 15:32:00"
+  title: SEC guidelines push for clearer data breach disclosures
+  url: https://www.engadget.com/2018/02/21/sec-guidelines-push-for-clearer-data-breach-disclosures/
+  domain: www.engadget.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_161bc30b549:de6d3:e66afc8b
+  item_date: "2018-02-21 22:25:49"
+  title: The SEC says companies must disclose more information about cybersecurity
+    risks
+  url: http://techcrunch.com/?p=1601155
+  domain: techcrunch.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_161bce54922:ac6b82e:541f3c40
+  item_date: "2018-02-22 01:41:00"
+  title: Government Ramps Up ICO Fees for Large Organizations
+  url: https://www.infosecurity-magazine.com:443/news/government-ramps-up-ico-fees-large/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_161bef21587:af2d49c:3c0bb656
+  item_date: "2018-02-22 05:16:48"
+  title: Reaping the benefits of payment services in a new regulatory environment
+  url: https://www.ecb.europa.eu/press/key/date/2018/html/ecb.sp180222.en.html
+  domain: www.ecb.europa.eu
+  image: ""
+- curated_id: nOYLJLGrWP+j1s7nsIaqdzrBrtVvk3vfI+i/RDLTXNY=_161bf80137b:b131444:541f3c40
+  item_date: "2018-02-22 12:47:23"
+  title: "How Data Standards Will Modernize Our Government\u2019s Regulatory Regime"
+  url: http://www.datacoalition.org/?p=3320
+  domain: www.datacoalition.org
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_161e3e328b9:15595a6:923c4a60
+  item_date: "2018-03-01 12:28:00"
+  title: 'European Union: PSD2: Communication Standards Set To Be Implemented In EU
+    Law'
+  url: http://www.mondaq.com/uk/x/678648/Financial+Services/PSD2+Communication+Standards+Set+To+Be+Implemented+In+EU+Law
+  domain: www.mondaq.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_161f204872f:6bbd0:a077e55f
+  item_date: "2018-03-04 09:17:01"
+  title: WTF is CFIUS?
+  url: http://techcrunch.com/?p=1604276
+  domain: techcrunch.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_161f5b7b7af:2cd7596:923c4a60
+  item_date: "2018-03-05 02:19:00"
+  title: SEC Issues Subpoenas to Crypto
+  url: https://www.infosecurity-magazine.com:443/news/sec-crypto-subpoena/
+  domain: www.infosecurity-magazine.com
   image: ""
 ...
