@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: Senator slams Twitter over suspected accounts tied to Russia
-  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: FAA bans drone flights near major US landmarks
   url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: Senator slams Twitter over suspected accounts tied to Russia
+  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -2322,16 +2322,16 @@
   url: https://www.engadget.com/2017/11/13/senators-ask-fec-to-improve-online-ad-transparency/
   domain: www.engadget.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15fbbd96a08:3710d1c:541f3c40
@@ -3038,5 +3038,17 @@
   title: FCC accuses stealth space startup of unauthorized satellite deployment
   url: http://techcrunch.com/?p=1606613
   domain: techcrunch.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_162176c98cc:5ece3e2:7c9981b6
+  item_date: "2018-03-11 08:37:06"
+  title: AI Can Be Made Legally Accountable for Its Decisions
+  url: https://www.technologyreview.com/s/609495/ai-can-be-made-legally-accountable-for-its-decisions/
+  domain: www.technologyreview.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_162195cf175:610a716:923c4a60
+  item_date: "2018-03-12 01:33:00"
+  title: FCC accuses startup of launching satellites without permission
+  url: https://www.engadget.com/2018/03/12/fcc-accuses-startup-of-launching-satellites-without-permission/
+  domain: www.engadget.com
   image: ""
 ...
