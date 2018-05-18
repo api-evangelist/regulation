@@ -3111,6 +3111,12 @@
   url: https://www.engadget.com/2018/03/24/tim-cook-calls-for-tougher-regulation-of-personal-data/
   domain: www.engadget.com
   image: ""
+- curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_1627fbf9d32:853195b:9f3b30f2
+  item_date: "2018-03-25 21:01:21"
+  title: "The Impact of the EU\u2019s New Data Protection Regulation on AI"
+  url: http://datainnovation.org/?p=8562
+  domain: datainnovation.org
+  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_162619dcd01:57c4dea:7d6c1c1c
   item_date: "2018-03-26 02:22:34"
   title: 'Watch it, Facebook: new EU data rules may have global impact'
@@ -3122,5 +3128,80 @@
   title: FTC, states increase pressure on Facebook on privacy
   url: http://hosted.ap.org/dynamic/stories/A/APFN_TEC_FACEBOOK_CAMBRIDGE_ANALYTICA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_162883260c5:dd739:a077e55f
+  item_date: "2018-04-02 14:10:15"
+  title: California DMV has new regulations for self
+  url: https://techcrunch.com/?p=1615850
+  domain: techcrunch.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_1628c6b47e1:43c825:76251cdd
+  item_date: "2018-04-03 09:48:20"
+  title: Republican governor forced to stop blocking Facebook users who criticize
+    him
+  url: https://arstechnica.com/?p=1287425
+  domain: arstechnica.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_1629a918951:24ac17:51a16d64
+  item_date: "2018-04-06 03:44:31"
+  title: Facebook reported in 7 countries for breaking European privacy law
+  url: https://thenextweb.com/?p=1117282
+  domain: thenextweb.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_1629ad6cd5a:1eebe2:7c9981b6
+  item_date: "2018-04-06 05:00:00"
+  title: Facebook is struggling with the EU's stricter privacy laws
+  url: https://www.engadget.com/2018/04/06/facebook-is-struggling-with-the-eus-stricter-privacy-laws/
+  domain: www.engadget.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_162b6b1380f:6725c:a077e55f
+  item_date: "2018-04-11 09:01:01"
+  title: Introducing Metadata
+  url: https://medium.com/p/eebdc3696048
+  domain: medium.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_162ba5ea6b0:b0e790:bdf8aaf1
+  item_date: "2018-04-12 07:55:06"
+  title: Facebook data transfers to be examined by EU court, Irish judge rules
+  url: https://arstechnica.com/?p=1292281
+  domain: arstechnica.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_162ba882357:ebd8dc:7d6c1c1c
+  item_date: "2018-04-12 08:40:00"
+  title: Tougher regulation of Facebook is inevitable
+  url: https://www.engadget.com/2018/04/12/mark-zuckerberg-facebook-regulation/
+  domain: www.engadget.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_162ba8f93bc:ec9d51:7d6c1c1c
+  item_date: "2018-04-12 08:44:36"
+  title: Facebook says it will stop fighting a major California privacy initiative
+  url: https://www.theverge.com/2018/4/12/17229128/facebook-california-consumer-privacy-act
+  domain: www.theverge.com
+  image: ""
+- curated_id: dIslAC/74CXeS1Mz8zq+s0d2TJcshDPyxk6DQBVrzSc=_162bb2dbab5:c5c34:a077e55f
+  item_date: "2018-04-12 11:45:48"
+  title: Calls For Regulation Build After Facebook Privacy Fallout
+  url: https://kasperskycontenthub.com/threatpost/?p=131155
+  domain: kasperskycontenthub.com
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_162e3827bd6:4bb0028:34f43e70
+  item_date: "2018-04-20 07:43:22"
+  title: Audit clears Facebook despite Cambridge Analytica leaks
+  url: http://hosted.ap.org/dynamic/stories/U/US_TEC_FACEBOOK_FTC_AUDIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_16304171e12:569912:fc1f8953
+  item_date: "2018-04-26 13:50:49"
+  title: "The Importance of the Facebook Search API to Enterprise Governance, Risk
+    Management and Compliance\u2026"
+  url: https://medium.com/p/6be862d38148
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1635f615617:d6b8b5:f3bf0074
+  item_date: "2018-05-12 10:03:01"
+  title: Why Trading Platforms that Embrace Regulation will Win The Crypto Trading
+    Wars
+  url: https://medium.com/p/4ef837ba34f2
+  domain: medium.com
   image: ""
 ...
