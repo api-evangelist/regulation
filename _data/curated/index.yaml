@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: FAA bans drone flights near major US landmarks
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: Senator slams Twitter over suspected accounts tied to Russia
   url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: FAA bans drone flights near major US landmarks
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -2322,16 +2322,16 @@
   url: https://www.engadget.com/2017/11/13/senators-ask-fec-to-improve-online-ad-transparency/
   domain: www.engadget.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15fbbd96a08:3710d1c:541f3c40
@@ -3215,5 +3215,155 @@
   title: Tech companies outside regulatory reach may be a problem
   url: http://www.businessinsider.com/regulators-concerned-about-tech-companies-2018-5?utm_source=feedly&amp;utm_medium=referral
   domain: www.businessinsider.com
+  image: ""
+- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_1644311d88d:29a0ed5:aa514a55
+  item_date: "2018-06-27 14:01:23"
+  title: Equifax must boost security under new agreement with states
+  url: https://www.washingtonpost.com/business/technology/equifax-must-boost-security-under-new-agreement-with-states/2018/06/27/3f1e1de2-7a4d-11e8-ac4e-421ef7165923_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_16447f7692c:3238cff:4e0f6129
+  item_date: "2018-06-28 12:46:39"
+  title: California just passed one of the toughest data privacy laws in the country
+  url: https://www.theverge.com/2018/6/28/17509720/california-consumer-privacy-act-legislation-law-vote
+  domain: www.theverge.com
+  image: ""
+- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_164482268b3:31de5b4:aa514a55
+  item_date: "2018-06-28 13:33:49"
+  title: California legislators just adopted tough new privacy rules targeting Facebook,
+    Google and other tech giants
+  url: https://www.washingtonpost.com/technology/2018/06/28/california-lawmakers-just-adopted-tough-new-privacy-rules-targeting-facebook-google-other-tech-giants/
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1644839f19f:c6c24:e8d3bdb3
+  item_date: "2018-06-28 14:08:08"
+  title: California passes landmark data privacy bill
+  url: https://techcrunch.com/?p=1665335
+  domain: techcrunch.com
+  image: ""
+- curated_id: PabZ8i1QCHv3KpsuDwP+IaHjEII8doc1zV63QTNW0N8=_1644855cbe0:322f037:aa514a55
+  item_date: "2018-06-28 14:38:59"
+  title: FEC struggles to craft new rules for political ads in the digital space
+  url: https://www.washingtonpost.com/politics/fec-struggles-to-craft-new-rules-for-political-ads-in-the-digital-space/2018/06/28/c749a234-7af9-11e8-aeee-4d04c8ac6158_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_1644aca3daa:365fcb1:4e0f6129
+  item_date: "2018-06-29 01:54:00"
+  title: UK Government Sets Minimum Cybersecurity Standard
+  url: https://www.infosecurity-magazine.com:443/news/uk-government-minimum/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_1646373fd54:5863205:aa514a55
+  item_date: "2018-07-02 07:19:46"
+  title: Facebook gives US lawmakers the names of 52 firms it gave deep data access
+    to
+  url: https://techcrunch.com/2018/07/02/facebook-gives-us-lawmakers-the-names-of-52-firms-it-gave-deep-data-access-to/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_16460533ce6:5376c90:aa514a55
+  item_date: "2018-07-03 06:21:00"
+  title: US court rules that using online photos can be considered 'fair use'
+  url: https://www.engadget.com/2018/07/03/us-court-rules-online-photos-fair-use/
+  domain: www.engadget.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_16461297938:54f97ca:aa514a55
+  item_date: "2018-07-03 10:19:00"
+  title: "California court says Yelp can\u2019t be forced to remove negative reviews"
+  url: https://www.engadget.com/2018/07/03/california-court-yelp-remove-negative-reviews/
+  domain: www.engadget.com
+  image: ""
+- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_1646139b282:54e8ae5:386c987f
+  item_date: "2018-07-03 10:38:48"
+  title: "Facebook\u2019s disclosures under scrutiny as federal agencies join probe
+    of tech giant\u2019s role in sharing data with Cambridge Analytica"
+  url: https://www.washingtonpost.com/ellipsis/federal-investigators-broaden-focus-on-facebooks-role-in-sharing-data-with-cambridge-analytica-examining-statements-of-tech-giant/2018/07/02/56d9fde6-b704-4e00-b926-601c16a2914b_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_1646139b282:54e8ae4:386c987f
+  item_date: "2018-07-03 10:38:48"
+  title: Facebook offers fresh detail about its ties to dozens of outside companies
+    in more than 700 pages of new data turned over to Congress
+  url: https://www.washingtonpost.com/ellipsis/facebook-offers-fresh-detail-about-its-ties-to-device-makers-in-new-data-turned-over-to-congress/2018/06/30/3ea6fdea-7149-469d-9f8c-17d5c76bdec0_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_164622cc435:5e7aaa:19029e75
+  item_date: "2018-07-03 15:03:40"
+  title: "Court rules Yelp can\u2019t be forced to remove reviews"
+  url: https://thenextweb.com/?p=1134349
+  domain: thenextweb.com
+  image: ""
+- curated_id: PabZ8i1QCHv3KpsuDwP+IaHjEII8doc1zV63QTNW0N8=_164622db18d:57929ab:4e0f6129
+  item_date: "2018-07-03 15:05:19"
+  title: Maryland pioneers state regulation of online political advertising
+  url: https://www.washingtonpost.com/local/md-politics/maryland-pioneers-state-regulation-of-online-political-advertising/2018/07/03/5fe1fc32-7ebd-11e8-b660-4d0f9f0351f1_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_164628c7169:5711352:386c987f
+  item_date: "2018-07-03 16:40:00"
+  title: California's New Privacy Law Gives GDPR
+  url: https://www.darkreading.com/attacks-breaches/californias-new-privacy-law-gives-gdpr-compliant-orgs-little-to-fear/d/d-id/1332217
+  domain: www.darkreading.com
+  image: ""
+- curated_id: PabZ8i1QCHv3KpsuDwP+IaHjEII8doc1zV63QTNW0N8=_1646313b012:57c5a3e:386c987f
+  item_date: "2018-07-03 19:16:32"
+  title: How the SEC could target Facebook
+  url: https://www.washingtonpost.com/news/business/wp/2018/07/03/how-the-sec-could-target-facebook/
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_164715e86ef:17eda6c:19029e75
+  item_date: "2018-07-06 13:52:33"
+  title: US court upholds FAA drone regulations
+  url: https://techcrunch.com/?p=1669123
+  domain: techcrunch.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_16490612a3b:9ad7783:386c987f
+  item_date: "2018-07-12 14:21:00"
+  title: SEC is reportedly investigating how Facebook disclosed data scandal
+  url: https://www.engadget.com/2018/07/12/sec-is-reportedly-investigating-how-facebook-disclosed-data-scan/
+  domain: www.engadget.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_164947103d6:a133fd8:aa514a55
+  item_date: "2018-07-13 09:16:32"
+  title: "Microsoft says it doesn\u2019t work on ICE facial recognition and calls
+    for regulation"
+  url: https://www.theverge.com/2018/7/13/17568558/microsoft-ice-facial-recognition
+  domain: www.theverge.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_16494a421a3:441f72:e8d3bdb3
+  item_date: "2018-07-13 10:15:02"
+  title: As facial recognition technology becomes pervasive, Microsoft (yes, Microsoft)
+    issues a call for regulation
+  url: https://techcrunch.com/?p=1672866
+  domain: techcrunch.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_16494cae157:445c9b:e8d3bdb3
+  item_date: "2018-07-13 10:55:02"
+  title: Smart TVs are invading privacy and should be investigated, senators say
+  url: https://arstechnica.com/?p=1343179
+  domain: arstechnica.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_1649519b660:a23e030:386c987f
+  item_date: "2018-07-13 12:21:00"
+  title: Lawmakers ask FTC to investigate smart TV data collection
+  url: https://www.engadget.com/2018/07/13/lawmakers-ftc-investigate-smart-tv-data-collection/
+  domain: www.engadget.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_164a408eb75:b541f1e:aa514a55
+  item_date: "2018-07-16 09:52:00"
+  title: SEC halts sketchy Kodak
+  url: https://www.engadget.com/2018/07/16/kodak-kashminer-bitcoin-mining-spotlite-sec/
+  domain: www.engadget.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_164ae1c0fd9:4f7657:b83afde1
+  item_date: "2018-07-18 01:29:27"
+  title: Cryptocurrency regulations of the biggest markets
+  url: https://medium.com/p/9f1cc17e40cc
+  domain: medium.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_164b8ab0059:d5dd78e:aa514a55
+  item_date: "2018-07-20 10:05:01"
+  title: DuckDuckGo slams Google following EU antitrust decision
+  url: https://www.theverge.com/2018/7/20/17595612/google-antitrust-eu-duckduckgo-chrome
+  domain: www.theverge.com
   image: ""
 ...
