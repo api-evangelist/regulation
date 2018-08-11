@@ -1101,16 +1101,16 @@
   url: https://www.engadget.com/2017/08/15/tech-companies-privacy-supreme-court-case/
   domain: www.engadget.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
-  item_date: "2017-08-15 09:51:33"
-  title: Judge orders LinkedIn to stop blocking data
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
   item_date: "2017-08-15 09:51:33"
   title: Pressured by government, Uber agrees to protect rider data
   url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
+  item_date: "2017-08-15 09:51:33"
+  title: Judge orders LinkedIn to stop blocking data
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15de6dc2143:482dc:6c0c5382
@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: FAA bans drone flights near major US landmarks
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: Senator slams Twitter over suspected accounts tied to Russia
   url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: FAA bans drone flights near major US landmarks
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -2322,16 +2322,16 @@
   url: https://www.engadget.com/2017/11/13/senators-ask-fec-to-improve-online-ad-transparency/
   domain: www.engadget.com
   image: ""
-- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
-  item_date: "2017-11-14 05:32:00"
-  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
-  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
-  domain: www.infosecurity-magazine.com
-  image: ""
 - curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbfad3fd6:477a27:3c0bb656
   item_date: "2017-11-14 05:32:00"
   title: '#ISSE17: Belgian Government Says Trust at Center of GDPR'
   url: https://www.infosecurity-magazine.com/news/isse17-belgian-government-trust/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15fbaeac050:352b4c1:541f3c40
+  item_date: "2017-11-14 05:32:00"
+  title: '#ISSE2017: Belgian Government Says Trust at Center of GDPR'
+  url: https://www.infosecurity-magazine.com/news/isse2017-belgian-government-trust/
   domain: www.infosecurity-magazine.com
   image: ""
 - curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15fbbd96a08:3710d1c:541f3c40
@@ -3272,18 +3272,18 @@
   url: https://www.engadget.com/2018/07/03/california-court-yelp-remove-negative-reviews/
   domain: www.engadget.com
   image: ""
-- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_1646139b282:54e8ae4:386c987f
-  item_date: "2018-07-03 10:38:48"
-  title: Facebook offers fresh detail about its ties to dozens of outside companies
-    in more than 700 pages of new data turned over to Congress
-  url: https://www.washingtonpost.com/ellipsis/facebook-offers-fresh-detail-about-its-ties-to-device-makers-in-new-data-turned-over-to-congress/2018/06/30/3ea6fdea-7149-469d-9f8c-17d5c76bdec0_story.html
-  domain: www.washingtonpost.com
-  image: ""
 - curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_1646139b282:54e8ae5:386c987f
   item_date: "2018-07-03 10:38:48"
   title: "Facebook\u2019s disclosures under scrutiny as federal agencies join probe
     of tech giant\u2019s role in sharing data with Cambridge Analytica"
   url: https://www.washingtonpost.com/ellipsis/federal-investigators-broaden-focus-on-facebooks-role-in-sharing-data-with-cambridge-analytica-examining-statements-of-tech-giant/2018/07/02/56d9fde6-b704-4e00-b926-601c16a2914b_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_1646139b282:54e8ae4:386c987f
+  item_date: "2018-07-03 10:38:48"
+  title: Facebook offers fresh detail about its ties to dozens of outside companies
+    in more than 700 pages of new data turned over to Congress
+  url: https://www.washingtonpost.com/ellipsis/facebook-offers-fresh-detail-about-its-ties-to-device-makers-in-new-data-turned-over-to-congress/2018/06/30/3ea6fdea-7149-469d-9f8c-17d5c76bdec0_story.html
   domain: www.washingtonpost.com
   image: ""
 - curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_164622cc435:5e7aaa:19029e75
@@ -3396,5 +3396,11 @@
   title: Massachusetts bill would require employers to pay up when enforcing noncompetes
   url: https://www.washingtonpost.com/business/massachusetts-bill-would-require-employers-to-pay-up-when-enforcing-noncompetes----but-theres-a-loophole/2018/08/03/500fa2d1-1b4b-4546-8d2e-1803d78c8b25_story.html
   domain: www.washingtonpost.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_165295a127d:4d998a1:6f86c10b
+  item_date: "2018-08-11 07:03:00"
+  title: Governments are getting better at regulating the 'sharing economy'
+  url: https://www.businessinsider.com/governments-regulating-sharing-economy-uber-scooters-2018-8?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
   image: ""
 ...
