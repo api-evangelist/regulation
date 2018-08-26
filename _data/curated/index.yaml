@@ -1101,16 +1101,16 @@
   url: https://www.engadget.com/2017/08/15/tech-companies-privacy-supreme-court-case/
   domain: www.engadget.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
-  item_date: "2017-08-15 09:51:33"
-  title: Pressured by government, Uber agrees to protect rider data
-  url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
   item_date: "2017-08-15 09:51:33"
   title: Judge orders LinkedIn to stop blocking data
   url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
+  item_date: "2017-08-15 09:51:33"
+  title: Pressured by government, Uber agrees to protect rider data
+  url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15de6dc2143:482dc:6c0c5382
@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: Senator slams Twitter over suspected accounts tied to Russia
-  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: FAA bans drone flights near major US landmarks
   url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: Senator slams Twitter over suspected accounts tied to Russia
+  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -3272,18 +3272,18 @@
   url: https://www.engadget.com/2018/07/03/california-court-yelp-remove-negative-reviews/
   domain: www.engadget.com
   image: ""
-- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_1646139b282:54e8ae4:386c987f
-  item_date: "2018-07-03 10:38:48"
-  title: Facebook offers fresh detail about its ties to dozens of outside companies
-    in more than 700 pages of new data turned over to Congress
-  url: https://www.washingtonpost.com/ellipsis/facebook-offers-fresh-detail-about-its-ties-to-device-makers-in-new-data-turned-over-to-congress/2018/06/30/3ea6fdea-7149-469d-9f8c-17d5c76bdec0_story.html
-  domain: www.washingtonpost.com
-  image: ""
 - curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_1646139b282:54e8ae5:386c987f
   item_date: "2018-07-03 10:38:48"
   title: "Facebook\u2019s disclosures under scrutiny as federal agencies join probe
     of tech giant\u2019s role in sharing data with Cambridge Analytica"
   url: https://www.washingtonpost.com/ellipsis/federal-investigators-broaden-focus-on-facebooks-role-in-sharing-data-with-cambridge-analytica-examining-statements-of-tech-giant/2018/07/02/56d9fde6-b704-4e00-b926-601c16a2914b_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_1646139b282:54e8ae4:386c987f
+  item_date: "2018-07-03 10:38:48"
+  title: Facebook offers fresh detail about its ties to dozens of outside companies
+    in more than 700 pages of new data turned over to Congress
+  url: https://www.washingtonpost.com/ellipsis/facebook-offers-fresh-detail-about-its-ties-to-device-makers-in-new-data-turned-over-to-congress/2018/06/30/3ea6fdea-7149-469d-9f8c-17d5c76bdec0_story.html
   domain: www.washingtonpost.com
   image: ""
 - curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_164622cc435:5e7aaa:19029e75
@@ -3408,5 +3408,17 @@
   title: Trump Signs NIST Act to Benefit Small Businesses
   url: https://www.infosecurity-magazine.com:443/news/trump-signs-nist-act-to-benefit/
   domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_1656829c4d6:cf10f:3da9d93
+  item_date: "2018-08-23 11:58:43"
+  title: Comcast/Charter lobby asks FTC to preempt state broadband regulations
+  url: https://arstechnica.com/?p=1363411
+  domain: arstechnica.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_1656c33fa31:486b30:4db7ac35
+  item_date: "2018-08-24 06:35:00"
+  title: The SEC just rejected nine Bitcoin ETFs
+  url: https://www.businessinsider.com/sec-rejects-bitcoin-etfs-fraud-market-manipulation-2018-8?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
   image: ""
 ...
