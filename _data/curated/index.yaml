@@ -1101,16 +1101,16 @@
   url: https://www.engadget.com/2017/08/15/tech-companies-privacy-supreme-court-case/
   domain: www.engadget.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
-  item_date: "2017-08-15 09:51:33"
-  title: Judge orders LinkedIn to stop blocking data
-  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c674:bd5def64
   item_date: "2017-08-15 09:51:33"
   title: Pressured by government, Uber agrees to protect rider data
   url: http://hosted.ap.org/dynamic/stories/U/US_UBER_RIDER_PRIVACY_MIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
+  item_date: "2017-08-15 09:51:33"
+  title: Judge orders LinkedIn to stop blocking data
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15de6dc2143:482dc:6c0c5382
@@ -1896,16 +1896,16 @@
   url: http://techcrunch.com/?p=1549346
   domain: techcrunch.com
   image: ""
-- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
-  item_date: "2017-09-29 20:35:25"
-  title: Senator slams Twitter over suspected accounts tied to Russia
-  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-  domain: hosted.ap.org
-  image: ""
 - curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f83:c84bd0de
   item_date: "2017-09-29 20:35:25"
   title: FAA bans drone flights near major US landmarks
   url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LANDMARKS_DRONE_RESTRICTIONS_NJOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed0da5f24:4365f85:c84bd0de
+  item_date: "2017-09-29 20:35:25"
+  title: Senator slams Twitter over suspected accounts tied to Russia
+  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_TWITTER?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
   domain: hosted.ap.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15ed2788267:b49212:feeb522d
@@ -3272,18 +3272,18 @@
   url: https://www.engadget.com/2018/07/03/california-court-yelp-remove-negative-reviews/
   domain: www.engadget.com
   image: ""
-- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_1646139b282:54e8ae4:386c987f
-  item_date: "2018-07-03 10:38:48"
-  title: Facebook offers fresh detail about its ties to dozens of outside companies
-    in more than 700 pages of new data turned over to Congress
-  url: https://www.washingtonpost.com/ellipsis/facebook-offers-fresh-detail-about-its-ties-to-device-makers-in-new-data-turned-over-to-congress/2018/06/30/3ea6fdea-7149-469d-9f8c-17d5c76bdec0_story.html
-  domain: www.washingtonpost.com
-  image: ""
 - curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_1646139b282:54e8ae5:386c987f
   item_date: "2018-07-03 10:38:48"
   title: "Facebook\u2019s disclosures under scrutiny as federal agencies join probe
     of tech giant\u2019s role in sharing data with Cambridge Analytica"
   url: https://www.washingtonpost.com/ellipsis/federal-investigators-broaden-focus-on-facebooks-role-in-sharing-data-with-cambridge-analytica-examining-statements-of-tech-giant/2018/07/02/56d9fde6-b704-4e00-b926-601c16a2914b_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_1646139b282:54e8ae4:386c987f
+  item_date: "2018-07-03 10:38:48"
+  title: Facebook offers fresh detail about its ties to dozens of outside companies
+    in more than 700 pages of new data turned over to Congress
+  url: https://www.washingtonpost.com/ellipsis/facebook-offers-fresh-detail-about-its-ties-to-device-makers-in-new-data-turned-over-to-congress/2018/06/30/3ea6fdea-7149-469d-9f8c-17d5c76bdec0_story.html
   domain: www.washingtonpost.com
   image: ""
 - curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_164622cc435:5e7aaa:19029e75
@@ -3438,5 +3438,106 @@
   title: Keep the government out of Google searches
   url: https://www.washingtonpost.com/opinions/keep-the-government-out-of-google-searches/2018/08/28/ac83d1ca-ab07-11e8-a8d7-0f63ab8b1370_story.html
   domain: www.washingtonpost.com
+  image: ""
+- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_1658783da8a:6721de:4db7ac35
+  item_date: "2018-08-29 14:01:52"
+  title: Facebook and Twitter executives to testify to Congress next week
+  url: https://www.washingtonpost.com/technology/facebook-and-twitter-executives-to-testify-to-congress-next-week/2018/08/29/10288f5a-ea82-4f28-9371-e7a0df5df486_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_1658c29891f:d2fe3f:4db7ac35
+  item_date: "2018-08-30 11:36:45"
+  title: "Sen. Orrin Hatch is telling the FTC to investigate Google after Trump\u2019s
+    \u2018bias\u2019 attacks"
+  url: https://www.theverge.com/2018/8/30/17800738/senator-orrin-hatch-ftc-investigate-google-search-trump-bias
+  domain: www.theverge.com
+  image: ""
+- curated_id: dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc=_1659148c895:14bc051:4c71e4fe
+  item_date: "2018-08-31 11:24:28"
+  title: San Francisco rejects permit application for Bird and Lime scooters
+  url: https://boingboing.net/?p=657602
+  domain: boingboing.net
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1659f936fa2:15096a:3da9d93
+  item_date: "2018-09-03 06:16:02"
+  title: Regulation is the Enemy of Decentralization
+  url: https://medium.com/p/5a00470791ad
+  domain: medium.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_165b551da74:61db5a:cf41b655
+  item_date: "2018-09-07 11:30:00"
+  title: The US government comes for Google, Facebook, and Twitter
+  url: https://www.engadget.com/2018/09/07/the-us-government-comes-for-google-facebook-and-twitter/
+  domain: www.engadget.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_165c4964223:18f3f21:6f86c10b
+  item_date: "2018-09-10 10:43:00"
+  title: New York state approves two dollar
+  url: https://www.engadget.com/2018/09/10/new-york-approves-gemini-paxos-cryptocurrency/
+  domain: www.engadget.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_165cd8189e6:32a547:4c71e4fe
+  item_date: "2018-09-12 04:12:57"
+  title: "EU approves controversial internet \u2018link tax\u2019 and \u2018upload
+    filter\u2019"
+  url: https://www.theverge.com/2018/9/12/17849868/eu-internet-copyright-reform-article-11-13-approved
+  domain: www.theverge.com
+  image: ""
+- curated_id: dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc=_165ceafca81:5268c9:4db7ac35
+  item_date: "2018-09-12 09:36:37"
+  title: Europe just voted to wreck the internet, spying on everything and censoring
+    vast swathes of our communications
+  url: https://boingboing.net/?p=659766
+  domain: boingboing.net
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_165e8ba618d:1786a6e:4c71e4fe
+  item_date: "2018-09-17 09:35:00"
+  title: Bill for Financial Services Breach Notification Passed
+  url: https://www.infosecurity-magazine.com:443/news/financial-services-breach/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: oNWXIUFEq3deZ9p31Bzsn84rUoNNfVyF0iFTFhkkP/M=_166024f52e1:4a03b5:6f86c10b
+  item_date: "2018-09-22 10:20:24"
+  title: Freezing your credit is now free in all states under a new law (usatoday.com)
+  url: https://www.usatoday.com/story/money/2018/09/21/equifax-free-credit-freeze-new-law/1377815002/
+  domain: www.usatoday.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1663980dbba:2f10d0:f62093d7
+  item_date: "2018-10-03 03:36:40"
+  title: Europe is drawing fresh battle lines around the ethics of big data
+  url: https://techcrunch.com/?p=1724452
+  domain: techcrunch.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_166530819d0:d4d261:f7a2ccea
+  item_date: "2018-10-08 02:12:00"
+  title: 'Experts: California''s IoT Security Law Falls Short'
+  url: https://www.infosecurity-magazine.com:443/news/experts-californias-iot-security/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_166b0db9654:10bd215:2e5c38bc
+  item_date: "2018-10-26 07:49:24"
+  title: "Facebook can simply say \u2018no\u2019 to EU\u2019s proposed audit"
+  url: https://thenextweb.com/?p=1161539
+  domain: thenextweb.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_166b7cbcd9d:407ba:20735c59
+  item_date: "2018-10-26 21:28:58"
+  title: Should Regulators Ban Crypto?
+  url: https://medium.com/p/f4f18309b103
+  domain: medium.com
+  image: ""
+- curated_id: dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc=_166bb9e4b72:1eb25d7:f7a2ccea
+  item_date: "2018-10-28 09:53:09"
+  title: The EU's new Link Tax bans the use of Creative Commons and open access for
+    news
+  url: https://boingboing.net/?p=676709
+  domain: boingboing.net
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_166cf45725f:b0b4f8:799d56cb
+  item_date: "2018-11-01 05:28:45"
+  title: 'The Inevitability of AI Law & Policy: Preparing Government for the Era of
+    Autonomous Machines'
+  url: http://thegovlab.org/?p=24573
+  domain: thegovlab.org
   image: ""
 ...
