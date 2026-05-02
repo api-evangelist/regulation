@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://api-evangelist.github.io/regulation/json-schema/regulation-comment-schema.json",
+  "title": "Public Comment",
+  "description": "Schema for a public comment submitted to a regulatory docket via Regulations.gov.",
+  "type": "object",
+  "required": ["commentId", "docketId", "submittedDate"],
+  "properties": {
+    "commentId": {
+      "type": "string",
+      "description": "Unique identifier for the public comment."
+    },
+    "docketId": {
+      "type": "string",
+      "description": "Regulatory docket this comment belongs to."
+    },
+    "documentId": {
+      "type": "string",
+      "description": "Specific regulatory document being commented on."
+    },
+    "submittedDate": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Date and time the comment was submitted."
+    },
+    "postedDate": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Date and time the comment was posted publicly."
+    },
+    "commenterName": {
+      "type": "string",
+      "description": "Name of the person or organization submitting the comment."
+    },
+    "commenterType": {
+      "type": "string",
+      "description": "Type of commenter.",
+      "enum": ["Individual", "Organization", "Anonymous", "Government"]
+    },
+    "comment": {
+      "type": "string",
+      "description": "Full text of the public comment."
+    },
+    "attachments": {
+      "type": "array",
+      "description": "Files attached to the comment.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "fileUrl": {
+            "type": "string",
+            "format": "uri"
+          },
+          "fileFormat": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "agencyId": {
+      "type": "string",
+      "description": "Agency that received the comment."
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "reg": "https://api-evangelist.github.io/regulation/vocab#",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "identifier": "schema:identifier",
+    "datePublished": "schema:datePublished",
+    "dateModified": "schema:dateModified",
+    "Regulation": {
+      "@id": "reg:Regulation",
+      "@type": "schema:Legislation",
+      "@context": {
+        "legislationIdentifier": "schema:legislationIdentifier",
+        "jurisdiction": "schema:legislationJurisdiction",
+        "effectiveDate": "schema:legislationDate",
+        "agency": "reg:regulatoryAgency",
+        "cfr": "reg:cfrCitation",
+        "status": "reg:regulationStatus"
+      }
+    },
+    "RegulatoryAgency": {
+      "@id": "reg:RegulatoryAgency",
+      "@type": "schema:GovernmentOrganization",
+      "@context": {
+        "acronym": "schema:alternateName",
+        "parentAgency": "schema:parentOrganization",
+        "jurisdiction": "schema:locationCreated"
+      }
+    },
+    "Docket": {
+      "@id": "reg:Docket",
+      "@type": "schema:CreativeWork",
+      "@context": {
+        "docketId": "reg:docketId",
+        "agency": "reg:regulatoryAgency",
+        "ruleType": "reg:ruleType",
+        "commentCount": "reg:commentCount",
+        "openForComment": "reg:openForComment"
+      }
+    },
+    "ProposedRule": {
+      "@id": "reg:ProposedRule",
+      "@type": "schema:Legislation",
+      "@context": {
+        "docketId": "reg:docketId",
+        "commentDeadline": "reg:commentDeadline",
+        "cfr": "reg:cfrCitation"
+      }
+    },
+    "FinalRule": {
+      "@id": "reg:FinalRule",
+      "@type": "schema:Legislation",
+      "@context": {
+        "effectiveDate": "schema:legislationDate",
+        "cfr": "reg:cfrCitation"
+      }
+    },
+    "PublicComment": {
+      "@id": "reg:PublicComment",
+      "@type": "schema:Comment",
+      "@context": {
+        "docketId": "reg:docketId",
+        "commentId": "reg:commentId",
+        "submittedDate": "schema:dateSubmitted",
+        "commenter": "schema:author"
+      }
+    },
+    "RegulatoryChange": {
+      "@id": "reg:RegulatoryChange",
+      "@type": "schema:Event",
+      "@context": {
+        "changeType": "reg:changeType",
+        "effectiveDate": "schema:startDate",
+        "regulation": "reg:Regulation",
+        "impactedEntities": "reg:impactedEntities"
+      }
+    }
+  }
+}

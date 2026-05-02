@@ -1,0 +1,109 @@
+vocabulary:
+  name: Regulation Vocabulary
+  description: Terminology and concepts used in regulatory compliance, rulemaking, enforcement, and the APIs that provide access to regulatory data.
+  version: '1.0'
+  created: '2026-05-02'
+  modified: '2026-05-02'
+  tags:
+    - Compliance
+    - Government
+    - Legal
+    - Regulation
+
+  terms:
+
+    - term: Administrative Rule
+      definition: A regulation created by a government agency under authority granted by legislation. Once enacted, administrative rules have the force of law and are published in official registers such as the US Federal Register.
+      tags:
+        - Government
+        - Rulemaking
+
+    - term: Compliance
+      definition: The state of meeting the requirements of applicable laws, regulations, standards, and policies. In the API context, compliance often involves automated monitoring, evidence collection, and reporting to demonstrate adherence to regulatory requirements.
+      tags:
+        - Compliance
+        - Risk Management
+
+    - term: Comment Period
+      definition: A defined timeframe during which the public may submit written comments on a proposed regulation. Regulations.gov provides an API for accessing and submitting comments on proposed federal rules.
+      tags:
+        - Government
+        - Public Participation
+        - Rulemaking
+
+    - term: Docket
+      definition: The official record of a regulatory proceeding, including the proposed rule, public comments, agency responses, and final rule. The Regulations.gov API provides access to dockets by docket ID.
+      tags:
+        - Government
+        - Records Management
+
+    - term: Enforcement Action
+      definition: An official action taken by a regulatory agency against an individual or organization for failing to comply with regulations. Enforcement data is available through APIs from agencies like FINRA, SEC, EPA, and others.
+      tags:
+        - Enforcement
+        - Government
+
+    - term: Federal Register
+      definition: The official daily publication of the US federal government containing proposed rules, final rules, notices, and executive orders. The Federal Register API provides programmatic access to documents published since 1994.
+      tags:
+        - Government
+        - Publishing
+
+    - term: Final Rule
+      definition: A regulation that has completed the notice-and-comment rulemaking process and is now legally effective. Final rules are published in the Federal Register and codified in the Code of Federal Regulations (CFR).
+      tags:
+        - Government
+        - Rulemaking
+
+    - term: GDPR
+      definition: General Data Protection Regulation - EU regulation governing data privacy and security for personal data of EU residents. Sets strict requirements for data collection, processing, storage, and transfer, with significant penalties for non-compliance.
+      tags:
+        - Data Privacy
+        - EU
+
+    - term: GRC
+      definition: Governance, Risk, and Compliance - an integrated approach to organizational governance that aligns IT and business operations with regulatory requirements and risk management objectives. Many GRC platforms consume regulatory data APIs.
+      tags:
+        - Compliance
+        - Risk Management
+
+    - term: HIPAA
+      definition: Health Insurance Portability and Accountability Act - US law establishing national standards for protecting sensitive patient health information. APIs handling healthcare data must implement HIPAA-compliant security and privacy controls.
+      tags:
+        - Healthcare
+        - Privacy
+
+    - term: Notice of Proposed Rulemaking (NPRM)
+      definition: A public notice issued by a government agency indicating that it proposes to create or revise a regulation and inviting public comment. NPRMs are published in the Federal Register and accessible via the Federal Register API.
+      tags:
+        - Government
+        - Rulemaking
+
+    - term: PCI DSS
+      definition: Payment Card Industry Data Security Standard - security standards for organizations that handle credit card transactions. APIs involved in payment processing must comply with PCI DSS requirements for data security and encryption.
+      tags:
+        - Financial Services
+        - Security Standards
+
+    - term: Regulatory Change Management
+      definition: The process of tracking, analyzing, and responding to changes in applicable regulations. APIs from providers like Compliance.ai automate the aggregation and alerting of regulatory changes across jurisdictions.
+      tags:
+        - Compliance
+        - Regulatory Change
+
+    - term: RegTech
+      definition: Regulatory Technology - technology solutions, including APIs and platforms, that help organizations manage regulatory compliance more efficiently. Encompasses automated reporting, compliance monitoring, and regulatory data aggregation.
+      tags:
+        - Technology
+
+    - term: Rulemaking
+      definition: The process by which government agencies create, amend, or repeal administrative regulations. In the US, federal rulemaking typically follows the Administrative Procedure Act (APA) notice-and-comment process.
+      tags:
+        - Government
+        - Legal Process
+
+    - term: SODA
+      definition: Socrata Open Data API - a standard API interface used by many government data portals to provide programmatic access to datasets. SODA endpoints typically follow a consistent pattern and support filtering, aggregation, and export.
+      tags:
+        - Government
+        - Open Data

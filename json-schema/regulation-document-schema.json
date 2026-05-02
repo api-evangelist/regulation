@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://api-evangelist.github.io/regulation/json-schema/regulation-document-schema.json",
+  "title": "Regulatory Document",
+  "description": "Schema for a regulatory document such as a proposed rule, final rule, notice, or guidance document as returned by the Federal Register API or Regulations.gov API.",
+  "type": "object",
+  "required": ["documentId", "title", "type", "agencyId", "publicationDate"],
+  "properties": {
+    "documentId": {
+      "type": "string",
+      "description": "Unique identifier for the regulatory document."
+    },
+    "docketId": {
+      "type": "string",
+      "description": "Associated regulatory docket identifier."
+    },
+    "title": {
+      "type": "string",
+      "description": "Official title of the regulatory document."
+    },
+    "type": {
+      "type": "string",
+      "description": "Type of regulatory document.",
+      "enum": ["Proposed Rule", "Final Rule", "Notice", "Rule", "Presidential Document", "Correction", "Sunshine Act Meeting", "Executive Order"]
+    },
+    "agencyId": {
+      "type": "string",
+      "description": "Identifier of the issuing agency (e.g., 'EPA', 'HHS', 'SEC')."
+    },
+    "agencyName": {
+      "type": "string",
+      "description": "Full name of the issuing agency."
+    },
+    "publicationDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the document was published in the Federal Register."
+    },
+    "effectiveDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the rule becomes effective (for Final Rules)."
+    },
+    "commentDeadline": {
+      "type": "string",
+      "format": "date",
+      "description": "Deadline for public comments (for Proposed Rules)."
+    },
+    "commentCount": {
+      "type": "integer",
+      "description": "Number of public comments received."
+    },
+    "openForComment": {
+      "type": "boolean",
+      "description": "Whether the document is currently open for public comment."
+    },
+    "cfrCitations": {
+      "type": "array",
+      "description": "Code of Federal Regulations citations affected by this document.",
+      "items": {
+        "type": "string",
+        "description": "CFR citation (e.g., '40 CFR Part 122')."
+      }
+    },
+    "federalRegisterNumber": {
+      "type": "string",
+      "description": "Federal Register document number."
+    },
+    "abstractText": {
+      "type": "string",
+      "description": "Brief abstract or summary of the regulatory document."
+    },
+    "fullTextUrl": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to the full text of the document."
+    },
+    "pdfUrl": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to the PDF version of the document."
+    },
+    "topics": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Subject matter topics covered by this document."
+    },
+    "rin": {
+      "type": "string",
+      "description": "Regulation Identifier Number from the Unified Agenda."
+    }
+  }
+}

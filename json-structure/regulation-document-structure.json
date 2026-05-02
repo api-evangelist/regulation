@@ -1,0 +1,24 @@
+{
+  "name": "Regulatory Document",
+  "description": "Structure documentation for a regulatory document from the Federal Register or Regulations.gov API.",
+  "fields": [
+    { "name": "documentId", "type": "string", "required": true, "description": "Unique document identifier." },
+    { "name": "docketId", "type": "string", "required": false, "description": "Associated docket identifier." },
+    { "name": "title", "type": "string", "required": true, "description": "Official title of the document." },
+    { "name": "type", "type": "string", "required": true, "description": "Document type (Proposed Rule, Final Rule, Notice, etc.)." },
+    { "name": "agencyId", "type": "string", "required": true, "description": "Issuing agency identifier." },
+    { "name": "agencyName", "type": "string", "required": false, "description": "Full name of the issuing agency." },
+    { "name": "publicationDate", "type": "date", "required": true, "description": "Federal Register publication date." },
+    { "name": "effectiveDate", "type": "date", "required": false, "description": "Date rule becomes effective (Final Rules)." },
+    { "name": "commentDeadline", "type": "date", "required": false, "description": "Public comment deadline (Proposed Rules)." },
+    { "name": "commentCount", "type": "integer", "required": false, "description": "Number of public comments received." },
+    { "name": "openForComment", "type": "boolean", "required": false, "description": "Currently open for public comment." },
+    { "name": "cfrCitations", "type": "array[string]", "required": false, "description": "Affected CFR citations." },
+    { "name": "federalRegisterNumber", "type": "string", "required": false, "description": "Federal Register document number." },
+    { "name": "abstractText", "type": "string", "required": false, "description": "Document abstract or summary." },
+    { "name": "fullTextUrl", "type": "uri", "required": false, "description": "Full text URL." },
+    { "name": "pdfUrl", "type": "uri", "required": false, "description": "PDF document URL." },
+    { "name": "topics", "type": "array[string]", "required": false, "description": "Subject matter topics." },
+    { "name": "rin", "type": "string", "required": false, "description": "Regulation Identifier Number." }
+  ]
+}
