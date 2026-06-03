@@ -1,0 +1,25 @@
+meta:
+  name: Regulation
+  description: Regulation encompasses the rules, laws, and standards established by
+    governments, agencies, and standards bodies that govern how businesses and individuals
+    must operate. In the context of APIs and digital technology, regulation drives
+    compliance requirements for data privacy (GDPR, CCPA), financial services (PSD2,
+    Dodd-Frank), healthcare (HIPAA), and many other sectors. A rich ecosystem of APIs
+    exists to access regulatory data, track regulatory changes, and automate compliance
+    workflows.
+  tags:
+  - Compliance
+  - Governance
+  - Government
+  - Legal
+  - Policy
+  - Regulation
+  - Regulatory Change
+  - Risk Management
+  portal: null
+  github: null
+  repo: regulation
+services_tools: []
+features: []
+use_cases: []
+integrations: []

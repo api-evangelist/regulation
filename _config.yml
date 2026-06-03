@@ -1,0 +1,21 @@
+title: Regulation
+description: Regulation encompasses the rules, laws, and standards established by
+  governments, agencies, and standards bodies that govern how businesses and individuals
+  must operate. In the context of APIs and digital technology, regulation drives compliance
+  requirements for data privacy (GDPR, CCPA), financial services (PSD2, Dodd-Frank),
+  healthcare (HIPAA), and many other sectors. A rich ecosystem of APIs exists to access
+  regulatory data, track regulatory changes, and automate compliance workflows.
+url: https://regulation.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
