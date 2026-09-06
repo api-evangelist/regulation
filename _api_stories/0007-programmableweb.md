@@ -1,7 +1,7 @@
 ---
-title: There Is No Platform for API Governance
-link: http://apievangelist.com/2026/07/20/there-is-no-platform-for-api-governance/
-published: '2026-07-20'
+title: OpenAPI Overlays for Compliance and Redaction Profiles
+link: http://apievangelist.com/2026/08/17/openapi-overlays-for-compliance-and-redaction-profiles/
+published: '2026-08-17'
 provider: programmableweb
 repo: https://github.com/api-evangelist/programmableweb
 domain: apievangelist.com
