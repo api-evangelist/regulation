@@ -1,6 +1,6 @@
 ---
-title: Lumos Launches MCP Governance to Provide Agent Runtime Security | Blog | Lumos
-link: https://www.lumos.com/blog/pr-lumos-launches-mcp-governance-provide-agent-runtime-security
+title: 'Introducing MCP Governance: Control Agent Access at Runtime | Blog | Lumos'
+link: https://www.lumos.com/blog/mcp-governance-runtime-agent-access-control
 published: '2026-09-22'
 provider: lumos
 repo: https://github.com/api-evangelist/lumos
