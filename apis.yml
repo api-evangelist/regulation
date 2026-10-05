@@ -1,5 +1,6 @@
 aid: regulation
 name: Regulation
+kind: topic
 description: Regulation encompasses the rules, laws, and standards established by governments, agencies, and standards bodies that govern how businesses and individuals must operate. In the context of APIs and digital technology, regulation drives compliance requirements for data privacy (GDPR, CCPA), financial services (PSD2, Dodd-Frank), healthcare (HIPAA), and many other sectors. A rich ecosystem of APIs exists to access regulatory data, track regulatory changes, and automate compliance workflows.
 type: Index
 url: https://raw.githubusercontent.com/api-evangelist/regulation/refs/heads/main/apis.yml
