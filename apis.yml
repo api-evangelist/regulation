@@ -69,6 +69,12 @@ apis:
       - type: Documentation
         url: https://www.compliance.ai/api/
 common:
+  - type: Plans
+    url: plans/regulation-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/regulation-rate-limits.yml
+  - type: FinOps
+    url: finops/regulation-finops.yml
   - type: Website
     url: https://open.gsa.gov/api/regulationsgov/
     name: Regulations.gov API - GSA Open Technology
