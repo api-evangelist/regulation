@@ -1,7 +1,7 @@
 ---
-title: OpenAPI Overlays for Governance as an Artifact, Not Enforcement
-link: http://apievangelist.com/2026/08/02/openapi-overlays-for-governance-as-an-artifact/
-published: '2026-08-02'
+title: OpenAPI Overlays for Compliance and Redaction Profiles
+link: http://apievangelist.com/2026/08/17/openapi-overlays-for-compliance-and-redaction-profiles/
+published: '2026-08-17'
 provider: api-evangelist
 repo: https://github.com/api-evangelist/api-evangelist
 domain: apievangelist.com
