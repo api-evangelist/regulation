@@ -1,7 +1,7 @@
 ---
-title: 'MCP Night 4 panel recap: what six months of agents actually changed'
-link: https://workos.com/blog/mcp-night-4-panel-recap
-published: '2026-05-25'
+title: The security risks specific to MCP servers, and how to address them
+link: https://workos.com/blog/mcp-security-risks
+published: '2026-06-02'
 provider: workos
 repo: https://github.com/api-evangelist/workos
 domain: workos.com
