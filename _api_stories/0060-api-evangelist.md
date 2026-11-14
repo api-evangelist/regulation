@@ -1,7 +1,7 @@
 ---
-title: Eighteen Tools for Open API Governance, One a Day
-link: http://apievangelist.com/2026/07/25/eighteen-tools-for-open-api-governance-one-a-day/
-published: '2026-07-25'
+title: OpenAPI Overlays for Compliance and Redaction Profiles
+link: http://apievangelist.com/2026/08/17/openapi-overlays-for-compliance-and-redaction-profiles/
+published: '2026-08-17'
 provider: api-evangelist
 repo: https://github.com/api-evangelist/api-evangelist
 domain: apievangelist.com
