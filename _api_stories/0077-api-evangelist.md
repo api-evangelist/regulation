@@ -1,7 +1,7 @@
 ---
-title: Conversational API Governance Your Agent Can Call
-link: http://apievangelist.com/2026/07/21/conversational-api-governance-your-agent-can-call/
-published: '2026-07-21'
+title: OpenAPI Overlays for Governance as an Artifact, Not Enforcement
+link: http://apievangelist.com/2026/08/02/openapi-overlays-for-governance-as-an-artifact/
+published: '2026-08-02'
 provider: api-evangelist
 repo: https://github.com/api-evangelist/api-evangelist
 domain: apievangelist.com
