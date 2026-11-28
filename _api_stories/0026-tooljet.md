@@ -1,7 +1,7 @@
 ---
-title: Build a Vendor Risk Register with ToolJet MCP and Jev
-link: https://blog.tooljet.com/vendor-risk-register-app/
-published: '2026-10-26'
+title: Build An Audit Trail Explorer With ToolJet MCP for compliance
+link: https://blog.tooljet.com/audit-trail-explorer-app/
+published: '2026-11-05'
 provider: tooljet
 repo: https://github.com/api-evangelist/tooljet
 domain: blog.tooljet.com
